@@ -1,6 +1,6 @@
 # Image Classification With Tensorflow
 
-### This is a project for the Machine Learning Course by Prof.Luca Iocch @ Sapienza University di Roma
+### This is a project for the Machine Learning Course by Prof.Luca Iocchi and Prof.Valsamis Ntouskos @ Sapienza University di Roma
 
 ### Data set used:
 Maritime Detection, Classification and tracking data set and can be downloaded from
