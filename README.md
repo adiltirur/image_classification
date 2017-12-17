@@ -25,7 +25,15 @@ Copy the training and testing data set in to <br />
 
 ## Let's Train the classifier 
 
-from the root directory of this repository run the command <br />
+from the root directory of this repository run the command <br /><br /><br />
 python -m code.retrain   --bottleneck_dir=supporting_files/bottlenecks   --how_many_training_steps=500   --model_dir=supporting_files/models/   --summaries_dir=supporting_files/training_summaries/"${ARCHITECTURE}"   --output_graph=supporting_files/retrained_graph.pb   --output_labels=supporting_files/retrained_labels.txt   --inception_v3   --image_dir=supporting_files/sc5 <br />
 
 ### yesss!! The training is done and it shows you the estimated accuracy
+
+
+## Now Let us check the accuracy with the testing data set
+
+### Let us run the classifer on the testing data set and check the output
+
+from the root directory again run the folloeing command <br /><br /><br />
+python -m code.bulk_classify     --graph=supporting_files/retrained_graph.pb
