@@ -1,6 +1,3 @@
-##python -m code.retrain   --bottleneck_dir=supporting_files/bottlenecks   --how_many_training_steps=500   --model_dir=supporting_files/models/   --summaries_dir=supporting_files/training_summaries/"${ARCHITECTURE}"   --output_graph=supporting_files/retrained_graph.pb   --output_labels=supporting_files/retrained_labels.txt   --inception_v3   --image_dir=supporting_files/sc5
-##python -m code.bulk_classify     --graph=supporting_files/retrained_graph.pb
-
 from __future__ import absolute_import
 
 from __future__ import division
@@ -16,8 +13,8 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 for k in range(4):
-    path_of = '/home/adil/Image_classification/sc5-2013-Mar-Apr-Test-20130412/'
-    with open('/home/adil/Image_classification/sc5-2013-Mar-Apr-Test-20130412/ground_truth.txt') as f:
+    path_of = '/home/adil/image_classification/supporting_files/data_set/sc5-2013-Mar-Apr-Test-20130412/'
+    with open('/home/adil/image_classification/supporting_files/data_set/sc5-2013-Mar-Apr-Test-20130412/ground_truth.txt') as f:
           lines = f.readlines()
           newlist = []
           for word in lines:
