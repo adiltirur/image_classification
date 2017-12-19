@@ -33,9 +33,10 @@ python -m code.retrain   --bottleneck_dir=supporting_files/bottlenecks   --how_m
 
 ## Now Let us check the accuracy with the testing data set
 
-### Let us run the classifer on the testing data set and check the output
 
-from the root directory again run the folloeing command <br /><br /><br />
+### Let us run the classifier on the testing data set and check the output
+from the root directory again run the following command 
+from the root directory again run the following command  <br /><br /><br />
 python -m code.bulk_classify     --graph=supporting_files/retrained_graph.pb
 
 #### As an output of the above program, there will be a csv file created image_classification/supporting_files/results/pre_result.csv
@@ -48,6 +49,6 @@ image_classification/code <br /><br />
 Run the command <br /><br /><br />
 python accuracy.py <br /><br /><br />
 
-### That's it, Now we have the total accuracy and an output file is created image_classification/supporting_files/results/final_result.csv that contains the prediction, actual output and the comparision result of actual output with the prediction
+### That's it, Now we have the total accuracy and an output file is created.<br />image_classification/supporting_files/results/final_result.csv that contains the prediction, actual output and the comparison result of actual output with the prediction
 
 
