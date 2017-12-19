@@ -1,1683 +1,1683 @@
-	prediction	actual	Output
-0	water	water	1
-1	lanciafino10mmarrone	motobarca	0
-2	vaporettoactv	vaporettoactv	1
-3	mototopo	mototopo	1
-4	mototopo	mototopo	1
-5	vaporettoactv	vaporettoactv	1
-6	mototopo	mototopo	1
-7	vaporettoactv	vaporettoactv	1
-8	water	water	1
-9	mototopo	mototopo	1
-10	water	water	1
-11	mototopo	mototopo	1
-12	patanella	patanella	1
-13	lanciafino10m	motobarca	0
-14	gondola	mototopo	0
-15	mototopo	mototopo	1
-16	mototopo	mototopo	1
-17	vaporettoactv	vaporettoactv	1
-18	vaporettoactv	vaporettoactv	1
-19	vaporettoactv	vaporettoactv	1
-20	patanella	mototopo	0
-21	water	water	1
-22	motoscafoactv	motoscafoactv	1
-23	vaporettoactv	vaporettoactv	1
-24	vaporettoactv	vaporettoactv	1
-25	water	water	1
-26	mototopo	mototopo	1
-27	mototopo	mototopo	1
-28	patanella	motobarca	0
-29	vaporettoactv	vaporettoactv	1
-30	water	water	1
-31	vaporettoactv	vaporettoactv	1
-32	mototopo	mototopo	1
-33	vaporettoactv	vaporettoactv	1
-34	vaporettoactv	vaporettoactv	1
-35	water	water	1
-36	lanciafino10mmarrone	patanella	0
-37	patanella	patanella	1
-38	mototopo	mototopo	1
-39	mototopo	mototopo	1
-40	motobarca	motobarca	1
-41	water	water	1
-42	mototopo	mototopo	1
-43	motobarca	mototopo	0
-44	mototopo	mototopo	1
-45	motobarca	water	0
-46	motobarca	water	0
-47	water	water	1
-48	water	water	1
-49	raccoltarifiuti	water	0
-50	motobarca	motobarca	1
-51	lanciafino10mbianca	lanciafino10mbianca	1
-52	vaporettoactv	vaporettoactv	1
-53	water	water	1
-54	vaporettoactv	vaporettoactv	1
-55	mototopo	mototopo	1
-56	lanciafino10mbianca	lanciafino10mbianca	1
-57	water	water	1
-58	vaporettoactv	vaporettoactv	1
-59	mototopo	mototopo	1
-60	mototopo	mototopo	1
-61	water	water	1
-62	motobarca	mototopo	0
-63	ambulanza	lanciafino10mbianca	0
-64	vaporettoactv	vaporettoactv	1
-65	mototopo	mototopo	1
-66	mototopo	mototopo	1
-67	patanella	patanella	1
-68	mototopo	motobarca	0
-69	mototopo	mototopo	1
-70	motobarca	water	0
-71	mototopo	mototopo	1
-72	ambulanza	mototopo	0
-73	mototopo	motobarca	0
-74	mototopo	motobarca	0
-75	mototopo	mototopo	1
-76	lanciafino10mbianca	lanciafino10mbianca	1
-77	lanciafino10mbianca	lanciafino10mbianca	1
-78	vaporettoactv	vaporettoactv	1
-79	water	water	1
-80	mototopo	mototopo	1
-81	mototopo	mototopo	1
-82	vaporettoactv	vaporettoactv	1
-83	lanciafino10mbianca	lanciafino10mbianca	1
-84	water	water	1
-85	vaporettoactv	vaporettoactv	1
-86	mototopo	mototopo	1
-87	mototopo	mototopo	1
-88	water	water	1
-89	patanella	patanella	1
-90	mototopo	mototopo	1
-91	mototopo	mototopo	1
-92	vaporettoactv	vaporettoactv	1
-93	vaporettoactv	vaporettoactv	1
-94	vigilidelfuoco	lanciafino10mbianca	0
-95	vaporettoactv	vaporettoactv	1
-96	motobarca	mototopo	0
-97	mototopo	mototopo	1
-98	water	water	1
-99	water	water	1
-100	lanciafino10mmarrone	lanciafino10mmarrone	1
-101	water	water	1
-102	mototopo	mototopo	1
-103	mototopo	mototopo	1
-104	mototopo	mototopo	1
-105	mototopo	mototopo	1
-106	mototopo	mototopo	1
-107	vaporettoactv	vaporettoactv	1
-108	mototopo	mototopo	1
-109	motobarca	motobarca	1
-110	lanciafino10mbianca	lanciafino10mbianca	1
-111	water	water	1
-112	mototopo	mototopo	1
-113	vaporettoactv	vaporettoactv	1
-114	mototopo	mototopo	1
-115	water	water	1
-116	mototopo	mototopo	1
-117	mototopo	mototopo	1
-118	lanciafino10mmarrone	lanciafino10mmarrone	1
-119	mototopo	mototopo	1
-120	lanciafino10mmarrone	lanciafino10mmarrone	1
-121	vaporettoactv	vaporettoactv	1
-122	water	water	1
-123	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-124	mototopo	mototopo	1
-125	vaporettoactv	vaporettoactv	1
-126	water	water	1
-127	mototopo	mototopo	1
-128	motobarca	motobarca	1
-129	water	water	1
-130	patanella	patanella	1
-131	vaporettoactv	vaporettoactv	1
-132	lanciafino10mbianca	lanciafino10mbianca	1
-133	motobarca	motobarca	1
-134	water	water	1
-135	motobarca	motobarca	1
-136	ambulanza	mototopo	0
-137	mototopo	mototopo	1
-138	lanciafino10mbianca	lanciafino10mbianca	1
-139	motobarca	lanciafino10mbianca	0
-140	vaporettoactv	vaporettoactv	1
-141	mototopo	mototopo	1
-142	mototopo	mototopo	1
-143	mototopo	mototopo	1
-144	mototopo	mototopo	1
-145	mototopo	mototopo	1
-146	motobarca	mototopo	0
-147	vaporettoactv	vaporettoactv	1
-148	motobarca	motobarca	1
-149	water	water	1
-150	mototopo	mototopo	1
-151	water	water	1
-152	vaporettoactv	vaporettoactv	1
-153	vaporettoactv	vaporettoactv	1
-154	vaporettoactv	vaporettoactv	1
-155	topa	topa	1
-156	mototopo	mototopo	1
-157	mototopo	mototopo	1
-158	water	water	1
-159	mototopo	mototopo	1
-160	vaporettoactv	vaporettoactv	1
-161	lanciafino10mbianca	lanciafino10mbianca	1
-162	patanella	barchino	0
-163	barchino	barchino	1
-164	vaporettoactv	vaporettoactv	1
-165	mototopo	mototopo	1
-166	vaporettoactv	vaporettoactv	1
-167	lanciafino10mbianca	barchino	0
-168	water	water	1
-169	vaporettoactv	vaporettoactv	1
-170	ambulanza	mototopo	0
-171	water	water	1
-172	raccoltarifiuti	raccoltarifiuti	1
-173	vaporettoactv	vaporettoactv	1
-174	mototopo	mototopo	1
-175	water	water	1
-176	vaporettoactv	vaporettoactv	1
-177	water	water	1
-178	raccoltarifiuti	raccoltarifiuti	1
-179	mototopo	mototopo	1
-180	lanciafino10mmarrone	lanciafino10mmarrone	1
-181	vaporettoactv	vaporettoactv	1
-182	mototopo	mototopo	1
-183	mototopo	mototopo	1
-184	mototopo	mototopo	1
-185	water	water	1
-186	lanciafino10mbianca	lanciafino10mbianca	1
-187	lanciafino10mbianca	lanciafino10mbianca	1
-188	vaporettoactv	vaporettoactv	1
-189	water	water	1
-190	mototopo	mototopo	1
-191	lanciafino10mbianca	lanciafino10mbianca	1
-192	mototopo	mototopo	1
-193	cacciapesca	barchino	0
-194	lanciafino10mbianca	lanciafino10mbianca	1
-195	water	water	1
-196	lanciafino10mbianca	water	0
-197	vaporettoactv	vaporettoactv	1
-198	vaporettoactv	vaporettoactv	1
-199	vaporettoactv	vaporettoactv	1
-200	water	water	1
-201	water	water	1
-202	mototopo	mototopo	1
-203	patanella	patanella	1
-204	vaporettoactv	vaporettoactv	1
-205	water	water	1
-206	water	water	1
-207	vaporettoactv	vaporettoactv	1
-208	water	water	1
-209	lanciafino10mbianca	lanciafino10mbianca	1
-210	lanciafino10mbianca	lanciafino10mbianca	1
-211	motobarca	mototopo	0
-212	water	water	1
-213	mototopo	mototopo	1
-214	water	water	1
-215	lanciafino10mbianca	lanciafino10mbianca	1
-216	vaporettoactv	vaporettoactv	1
-217	water	water	1
-218	vaporettoactv	vaporettoactv	1
-219	vaporettoactv	vaporettoactv	1
-220	motobarca	mototopo	0
-221	vaporettoactv	vaporettoactv	1
-222	lanciafino10mmarrone	lanciafino10mmarrone	1
-223	water	water	1
-224	mototopo	mototopo	1
-225	mototopo	mototopo	1
-226	raccoltarifiuti	raccoltarifiuti	1
-227	raccoltarifiuti	raccoltarifiuti	1
-228	mototopo	mototopo	1
-229	water	water	1
-230	vaporettoactv	vaporettoactv	1
-231	lanciafino10mbianca	lanciafino10mmarrone	0
-232	mototopo	mototopo	1
-233	lanciafino10mbianca	lanciafino10mbianca	1
-234	water	water	1
-235	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-236	mototopo	mototopo	1
-237	lanciafino10mbianca	lanciafino10mbianca	1
-238	lanciafino10mbianca	lanciafino10mbianca	1
-239	lanciafino10mbianca	lanciafino10mbianca	1
-240	water	water	1
-241	vaporettoactv	vaporettoactv	1
-242	vaporettoactv	vaporettoactv	1
-243	mototopo	mototopo	1
-244	mototopo	mototopo	1
-245	vaporettoactv	vaporettoactv	1
-246	lanciafino10mbianca	lanciafino10mbianca	1
-247	vaporettoactv	vaporettoactv	1
-248	patanella	patanella	1
-249	water	water	1
-250	lanciafino10mmarrone	patanella	0
-251	lanciafino10mbianca	lanciafino10mbianca	1
-252	mototopo	lanciafino10mmarrone	0
-253	lanciafino10mmarrone	lanciafino10mmarrone	1
-254	water	water	1
-255	lanciafino10mbianca	lanciafino10mbianca	1
-256	vaporettoactv	vaporettoactv	1
-257	barchino	topa	0
-258	lanciafino10mbianca	lanciafino10mmarrone	0
-259	vaporettoactv	vaporettoactv	1
-260	mototopo	mototopo	1
-261	ambulanza	ambulanza	1
-262	lanciafino10mmarrone	ambulanza	0
-263	mototopo	mototopo	1
-264	mototopo	mototopo	1
-265	mototopo	mototopo	1
-266	lanciafino10mmarrone	lanciafino10mmarrone	1
-267	lanciafino10mbianca	lanciafino10mbianca	1
-268	mototopo	mototopo	1
-269	topa	patanella	0
-270	water	water	1
-271	patanella	patanella	1
-272	water	water	1
-273	patanella	water	0
-274	patanella	patanella	1
-275	mototopo	mototopo	1
-276	vaporettoactv	vaporettoactv	1
-277	vaporettoactv	vaporettoactv	1
-278	water	water	1
-279	lanciafino10mbianca	lanciafino10mbianca	1
-280	lanciafino10mbianca	lanciafino10mbianca	1
-281	mototopo	mototopo	1
-282	patanella	patanella	1
-283	mototopo	mototopo	1
-284	vaporettoactv	vaporettoactv	1
-285	water	water	1
-286	lanciafino10mmarrone	topa	0
-287	lanciafino10mbianca	lanciafino10mbianca	1
-288	water	water	1
-289	topa	barchino	0
-290	vaporettoactv	vaporettoactv	1
-291	lanciafino10mbianca	lanciafino10mbianca	1
-292	water	water	1
-293	vaporettoactv	vaporettoactv	1
-294	vaporettoactv	vaporettoactv	1
-295	water	water	1
-296	water	water	1
-297	patanella	topa	0
-298	topa	topa	1
-299	lanciafino10mbianca	lanciafino10mbianca	1
-300	mototopo	mototopo	1
-301	water	water	1
-302	motobarca	motobarca	1
-303	lanciafino10mbianca	lanciafino10mbianca	1
-304	motobarca	motobarca	1
-305	water	water	1
-306	alilaguna	alilaguna	1
-307	patanella	polizia	0
-308	patanella	lanciafino10mbianca	0
-309	vaporettoactv	vaporettoactv	1
-310	polizia	polizia	1
-311	mototopo	mototopo	1
-312	vaporettoactv	vaporettoactv	1
-313	mototopo	mototopo	1
-314	barchino	barchino	1
-315	lanciafino10mmarrone	lanciafino10mmarrone	1
-316	lanciafino10mmarrone	lanciafino10mmarrone	1
-317	vaporettoactv	vaporettoactv	1
-318	mototopo	mototopo	1
-319	vaporettoactv	vaporettoactv	1
-320	water	water	1
-321	alilaguna	alilaguna	1
-322	mototopo	mototopo	1
-323	water	water	1
-324	patanella	barchino	0
-325	water	water	1
-326	topa	topa	1
-327	patanella	topa	0
-328	vaporettoactv	vaporettoactv	1
-329	mototopo	mototopo	1
-330	lanciafino10mbianca	lanciafino10mbianca	1
-331	water	water	1
-332	lanciafino10mbianca	lanciafino10mbianca	1
-333	water	water	1
-334	patanella	patanella	1
-335	patanella	patanella	1
-336	vaporettoactv	vaporettoactv	1
-337	vaporettoactv	vaporettoactv	1
-338	mototopo	motobarca	0
-339	vaporettoactv	vaporettoactv	1
-340	water	water	1
-341	mototopo	mototopo	1
-342	motobarca	mototopo	0
-343	polizia	polizia	1
-344	patanella	patanella	1
-345	patanella	patanella	1
-346	vaporettoactv	vaporettoactv	1
-347	water	water	1
-348	mototopo	mototopo	1
-349	water	water	1
-350	mototopo	mototopo	1
-351	water	water	1
-352	patanella	patanella	1
-353	patanella	patanella	1
-354	motobarca	motobarca	1
-355	vaporettoactv	vaporettoactv	1
-356	polizia	patanella	0
-357	patanella	barchino	0
-358	sandoloaremi	topa	0
-359	vaporettoactv	vaporettoactv	1
-360	lanciafino10mbianca	lanciafino10mbianca	1
-361	mototopo	mototopo	1
-362	patanella	topa	0
-363	water	water	1
-364	vaporettoactv	vaporettoactv	1
-365	vaporettoactv	vaporettoactv	1
-366	barchino	barchino	1
-367	lanciafino10m	lanciafino10mbianca	0
-368	mototopo	mototopo	1
-369	lanciafino10mbianca	lanciafino10mbianca	1
-370	water	water	1
-371	lanciafino10mmarrone	lanciafino10mmarrone	1
-372	lanciafino10mbianca	lanciafino10mbianca	1
-373	ambulanza	ambulanza	1
-374	water	water	1
-375	water	water	1
-376	vaporettoactv	vaporettoactv	1
-377	alilaguna	alilaguna	1
-378	mototopo	mototopo	1
-379	water	water	1
-380	mototopo	mototopo	1
-381	mototopo	mototopo	1
-382	water	water	1
-383	water	water	1
-384	patanella	patanella	1
-385	patanella	patanella	1
-386	patanella	patanella	1
-387	mototopo	mototopo	1
-388	barchino	mototopo	0
-389	mototopo	mototopo	1
-390	lanciafino10mmarrone	lanciafino10mmarrone	1
-391	vaporettoactv	vaporettoactv	1
-392	mototopo	mototopo	1
-393	vaporettoactv	vaporettoactv	1
-394	motobarca	motobarca	1
-395	polizia	lanciafino10mbianca	0
-396	lanciafino10mbianca	lanciafino10mbianca	1
-397	lanciafino10mmarrone	lanciafino10mmarrone	1
-398	water	water	1
-399	mototopo	mototopo	1
-400	mototopo	mototopo	1
-401	mototopo	mototopo	1
-402	water	water	1
-403	mototopo	mototopo	1
-404	water	water	1
-405	ambulanza	mototopo	0
-406	vaporettoactv	vaporettoactv	1
-407	water	water	1
-408	patanella	patanella	1
-409	water	water	1
-410	mototopo	mototopo	1
-411	motobarca	lanciafino10mmarrone	0
-412	water	water	1
-413	mototopo	mototopo	1
-414	lanciafino10mmarrone	lanciafino10mmarrone	1
-415	water	water	1
-416	lanciafino10mbianca	lanciafino10mbianca	1
-417	motoscafoactv	topa	0
-418	vaporettoactv	vaporettoactv	1
-419	water	water	1
-420	patanella	barchino	0
-421	water	water	1
-422	lanciafino10mbianca	lanciafino10mbianca	1
-423	water	water	1
-424	vaporettoactv	vaporettoactv	1
-425	vaporettoactv	vaporettoactv	1
-426	vaporettoactv	vaporettoactv	1
-427	vaporettoactv	vaporettoactv	1
-428	mototopo	mototopo	1
-429	water	water	1
-430	water	water	1
-431	mototopo	mototopo	1
-432	polizia	lanciafino10mmarrone	0
-433	mototopo	mototopo	1
-434	water	water	1
-435	lanciafino10mbianca	lanciafino10mbianca	1
-436	lanciafino10m	lanciafino10mbianca	0
-437	vaporettoactv	vaporettoactv	1
-438	motobarca	raccoltarifiuti	0
-439	mototopo	water	0
-440	polizia	polizia	1
-441	water	water	1
-442	patanella	patanella	1
-443	water	water	1
-444	ambulanza	ambulanza	1
-445	vaporettoactv	vaporettoactv	1
-446	lanciafino10mbianca	polizia	0
-447	water	water	1
-448	ambulanza	ambulanza	1
-449	vaporettoactv	vaporettoactv	1
-450	mototopo	mototopo	1
-451	water	water	1
-452	motobarca	mototopo	0
-453	water	water	1
-454	polizia	lanciafino10mbianca	0
-455	lanciafino10mbianca	lanciafino10mbianca	1
-456	lanciafino10mmarrone	lanciafino10mmarrone	1
-457	water	water	1
-458	vaporettoactv	vaporettoactv	1
-459	water	water	1
-460	water	water	1
-461	lanciafino10mbianca	lanciafino10mbianca	1
-462	mototopo	mototopo	1
-463	water	water	1
-464	water	water	1
-465	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-466	water	water	1
-467	mototopo	mototopo	1
-468	mototopo	mototopo	1
-469	water	water	1
-470	lanciafino10mbianca	lanciafino10mbianca	1
-471	water	water	1
-472	lanciafino10mbianca	lanciafino10mbianca	1
-473	water	water	1
-474	vaporettoactv	vaporettoactv	1
-475	motobarca	motobarca	1
-476	raccoltarifiuti	motobarca	0
-477	water	water	1
-478	patanella	barchino	0
-479	lanciafino10mbianca	motobarca	0
-480	motobarca	motobarca	1
-481	mototopo	mototopo	1
-482	water	water	1
-483	vaporettoactv	vaporettoactv	1
-484	patanella	patanella	1
-485	water	water	1
-486	lanciafino10mbianca	lanciafino10mbianca	1
-487	vaporettoactv	vaporettoactv	1
-488	water	water	1
-489	lanciafino10mbianca	motobarca	0
-490	ambulanza	ambulanza	1
-491	mototopo	mototopo	1
-492	vaporettoactv	vaporettoactv	1
-493	mototopo	mototopo	1
-494	water	water	1
-495	mototopo	mototopo	1
-496	water	water	1
-497	mototopo	patanella	0
-498	motobarca	mototopo	0
-499	vaporettoactv	vaporettoactv	1
-500	patanella	patanella	1
-501	patanella	patanella	1
-502	vaporettoactv	vaporettoactv	1
-503	topa	patanella	0
-504	mototopo	mototopo	1
-505	vaporettoactv	vaporettoactv	1
-506	lanciafino10mmarrone	lanciafino10mmarrone	1
-507	patanella	lanciafino10mmarrone	0
-508	mototopo	motobarca	0
-509	patanella	patanella	1
-510	motobarca	motobarca	1
-511	water	water	1
-512	lanciafino10mbianca	patanella	0
-513	mototopo	mototopo	1
-514	barchino	barchino	1
-515	vaporettoactv	vaporettoactv	1
-516	raccoltarifiuti	raccoltarifiuti	1
-517	polizia	lanciafino10mbianca	0
-518	water	water	1
-519	vaporettoactv	vaporettoactv	1
-520	vaporettoactv	vaporettoactv	1
-521	lanciafino10mbianca	lanciafino10mbianca	1
-522	mototopo	mototopo	1
-523	mototopo	mototopo	1
-524	water	water	1
-525	lanciafino10mmarrone	lanciafino10mmarrone	1
-526	lanciafino10mmarrone	lanciafino10mmarrone	1
-527	mototopo	mototopo	1
-528	water	water	1
-529	mototopo	mototopo	1
-530	mototopo	mototopo	1
-531	water	water	1
-532	mototopo	mototopo	1
-533	mototopo	mototopo	1
-534	lanciafino10mbianca	lanciafino10mbianca	1
-535	water	water	1
-536	vaporettoactv	vaporettoactv	1
-537	raccoltarifiuti	raccoltarifiuti	1
-538	vaporettoactv	vaporettoactv	1
-539	vaporettoactv	vaporettoactv	1
-540	motopontonerettangolare	motopontonerettangolare	1
-541	water	water	1
-542	lanciafino10mbianca	lanciafino10mbianca	1
-543	water	raccoltarifiuti	0
-544	patanella	patanella	1
-545	vaporettoactv	vaporettoactv	1
-546	mototopo	mototopo	1
-547	patanella	patanella	1
-548	water	water	1
-549	lanciafino10mbianca	lanciafino10mbianca	1
-550	patanella	patanella	1
-551	mototopo	mototopo	1
-552	patanella	lanciafino10mmarrone	0
-553	vaporettoactv	vaporettoactv	1
-554	mototopo	mototopo	1
-555	water	water	1
-556	patanella	lanciafino10mmarrone	0
-557	water	water	1
-558	lanciafino10mbianca	lanciafino10mbianca	1
-559	lanciafino10mmarrone	lanciafino10mmarrone	1
-560	lanciafino10mbianca	lanciafino10mbianca	1
-561	water	water	1
-562	vaporettoactv	vaporettoactv	1
-563	motobarca	raccoltarifiuti	0
-564	lanciafino10mbianca	mototopo	0
-565	vaporettoactv	vaporettoactv	1
-566	lanciafino10mmarrone	lanciafino10mmarrone	1
-567	water	water	1
-568	lanciafino10mbianca	lanciafino10mbianca	1
-569	barchino	lanciafino10mbianca	0
-570	lanciafino10mmarrone	lanciafino10mmarrone	1
-571	mototopo	mototopo	1
-572	mototopo	mototopo	1
-573	raccoltarifiuti	raccoltarifiuti	1
-574	lanciafino10mbianca	lanciafino10mbianca	1
-575	vaporettoactv	vaporettoactv	1
-576	water	water	1
-577	water	water	1
-578	water	water	1
-579	mototopo	polizia	0
-580	lanciafino10mbianca	lanciafino10mbianca	1
-581	alilaguna	alilaguna	1
-582	mototopo	mototopo	1
-583	water	water	1
-584	lanciafino10mbianca	lanciafino10mbianca	1
-585	patanella	patanella	1
-586	lanciafino10mmarrone	lanciafino10mmarrone	1
-587	water	water	1
-588	mototopo	mototopo	1
-589	vaporettoactv	vaporettoactv	1
-590	lanciafino10mbianca	mototopo	0
-591	alilaguna	motobarca	0
-592	motobarca	mototopo	0
-593	lanciafino10mmarrone	lanciafino10mmarrone	1
-594	mototopo	mototopo	1
-595	mototopo	mototopo	1
-596	patanella	ambulanza	0
-597	vaporettoactv	vaporettoactv	1
-598	lanciafino10mbianca	lanciafino10mbianca	1
-599	patanella	patanella	1
-600	ambulanza	ambulanza	1
-601	water	water	1
-602	lanciafino10mbianca	lanciafino10mbianca	1
-603	mototopo	mototopo	1
-604	mototopo	mototopo	1
-605	mototopo	mototopo	1
-606	ambulanza	ambulanza	1
-607	water	water	1
-608	lanciafino10mbianca	lanciafino10mbianca	1
-609	water	water	1
-610	lanciafino10mmarrone	lanciafino10mmarrone	1
-611	barchino	barchino	1
-612	barchino	barchino	1
-613	mototopo	mototopo	1
-614	mototopo	mototopo	1
-615	lanciafino10mbianca	lanciafino10mbianca	1
-616	water	water	1
-617	lanciafino10mbianca	lanciafino10mbianca	1
-618	water	lanciafino10mbianca	0
-619	vaporettoactv	vaporettoactv	1
-620	mototopo	mototopo	1
-621	mototopo	water	0
-622	vaporettoactv	vaporettoactv	1
-623	mototopo	mototopo	1
-624	mototopo	mototopo	1
-625	vaporettoactv	vaporettoactv	1
-626	patanella	patanella	1
-627	water	water	1
-628	lanciafino10mmarrone	lanciafino10mmarrone	1
-629	water	water	1
-630	raccoltarifiuti	motobarca	0
-631	lanciafino10mbianca	lanciafino10mbianca	1
-632	mototopo	mototopo	1
-633	mototopo	mototopo	1
-634	vaporettoactv	vaporettoactv	1
-635	lanciafino10mbianca	lanciafino10mbianca	1
-636	water	water	1
-637	lanciafino10mmarrone	lanciafino10mmarrone	1
-638	vaporettoactv	vaporettoactv	1
-639	mototopo	mototopo	1
-640	mototopo	mototopo	1
-641	mototopo	mototopo	1
-642	water	water	1
-643	vaporettoactv	vaporettoactv	1
-644	motobarca	mototopo	0
-645	lanciafino10mbianca	lanciafino10mbianca	1
-646	barchino	barchino	1
-647	mototopo	mototopo	1
-648	water	water	1
-649	mototopo	mototopo	1
-650	lanciafino10mmarrone	lanciafino10mmarrone	1
-651	raccoltarifiuti	raccoltarifiuti	1
-652	water	water	1
-653	mototopo	mototopo	1
-654	vaporettoactv	vaporettoactv	1
-655	alilaguna	alilaguna	1
-656	mototopo	mototopo	1
-657	water	water	1
-658	raccoltarifiuti	raccoltarifiuti	1
-659	lanciafino10mmarrone	lanciafino10mbianca	0
-660	mototopo	mototopo	1
-661	mototopo	mototopo	1
-662	lanciafino10mmarrone	lanciafino10mmarrone	1
-663	water	water	1
-664	mototopo	mototopo	1
-665	lanciafino10mbianca	lanciafino10mbianca	1
-666	vaporettoactv	vaporettoactv	1
-667	ambulanza	ambulanza	1
-668	mototopo	mototopo	1
-669	water	water	1
-670	lanciafino10mbianca	lanciafino10mbianca	1
-671	mototopo	motobarca	0
-672	lanciafino10mbianca	lanciafino10mbianca	1
-673	lanciafino10mbianca	lanciafino10mbianca	1
-674	mototopo	mototopo	1
-675	water	water	1
-676	motobarca	motobarca	1
-677	water	water	1
-678	vaporettoactv	vaporettoactv	1
-679	vaporettoactv	vaporettoactv	1
-680	water	water	1
-681	raccoltarifiuti	raccoltarifiuti	1
-682	raccoltarifiuti	raccoltarifiuti	1
-683	water	water	1
-684	water	water	1
-685	water	water	1
-686	water	water	1
-687	water	water	1
-688	water	water	1
-689	lanciafino10mbianca	lanciafino10mbianca	1
-690	water	water	1
-691	motobarca	mototopo	0
-692	raccoltarifiuti	raccoltarifiuti	1
-693	topa	topa	1
-694	vaporettoactv	vaporettoactv	1
-695	alilaguna	water	0
-696	vaporettoactv	vaporettoactv	1
-697	mototopo	mototopo	1
-698	mototopo	mototopo	1
-699	patanella	patanella	1
-700	water	water	1
-701	lanciafino10mmarrone	lanciafino10mmarrone	1
-702	lanciafino10mmarrone	lanciafino10mmarrone	1
-703	mototopo	mototopo	1
-704	motobarca	motobarca	1
-705	lanciafino10mmarrone	lanciafino10mmarrone	1
-706	lanciafino10mbianca	lanciafino10mbianca	1
-707	lanciafino10mbianca	lanciafino10mbianca	1
-708	vaporettoactv	vaporettoactv	1
-709	patanella	patanella	1
-710	mototopo	Gondola	0
-711	gondola	Gondola	0
-712	lanciafino10mbianca	lanciafino10mbianca	1
-713	lanciafino10mbianca	lanciafino10mbianca	1
-714	vaporettoactv	vaporettoactv	1
-715	water	water	1
-716	water	water	1
-717	patanella	patanella	1
-718	lanciafino10mbianca	lanciafino10mbianca	1
-719	vaporettoactv	vaporettoactv	1
-720	mototopo	mototopo	1
-721	raccoltarifiuti	raccoltarifiuti	1
-722	mototopo	motobarca	0
-723	motobarca	motobarca	1
-724	ambulanza	motobarca	0
-725	water	water	1
-726	water	water	1
-727	vaporettoactv	vaporettoactv	1
-728	vaporettoactv	vaporettoactv	1
-729	mototopo	mototopo	1
-730	lanciafino10mmarrone	lanciafino10mmarrone	1
-731	cacciapesca	lanciafino10mbianca	0
-732	cacciapesca	lanciafino10mbianca	0
-733	lanciafino10mbianca	lanciafino10mbianca	1
-734	patanella	patanella	1
-735	patanella	patanella	1
-736	mototopo	motobarca	0
-737	mototopo	mototopo	1
-738	water	water	1
-739	vaporettoactv	vaporettoactv	1
-740	raccoltarifiuti	raccoltarifiuti	1
-741	water	water	1
-742	mototopo	mototopo	1
-743	lanciafino10mbianca	lanciafino10mbianca	1
-744	polizia	polizia	1
-745	alilaguna	alilaguna	1
-746	lanciafino10mbianca	lanciafino10mbianca	1
-747	motobarca	mototopo	0
-748	topa	topa	1
-749	water	water	1
-750	patanella	patanella	1
-751	vaporettoactv	vaporettoactv	1
-752	lanciafino10mmarrone	lanciafino10mmarrone	1
-753	lanciafino10mmarrone	lanciafino10mmarrone	1
-754	lanciafino10mbianca	lanciafino10mbianca	1
-755	patanella	patanella	1
-756	vaporettoactv	vaporettoactv	1
-757	lanciafino10mmarrone	lanciafino10mmarrone	1
-758	lanciafino10mmarrone	lanciafino10mmarrone	1
-759	water	water	1
-760	lanciafino10mbianca	lanciafino10mbianca	1
-761	vaporettoactv	vaporettoactv	1
-762	mototopo	mototopo	1
-763	patanella	mototopo	0
-764	motobarca	lanciafino10mmarrone	0
-765	mototopo	mototopo	1
-766	water	water	1
-767	vaporettoactv	vaporettoactv	1
-768	vaporettoactv	vaporettoactv	1
-769	water	water	1
-770	vaporettoactv	vaporettoactv	1
-771	ambulanza	ambulanza	1
-772	mototopo	patanella	0
-773	mototopo	mototopo	1
-774	water	water	1
-775	vaporettoactv	vaporettoactv	1
-776	mototopo	mototopo	1
-777	alilaguna	alilaguna	1
-778	lanciafino10mbianca	lanciafino10mbianca	1
-779	motobarca	motobarca	1
-780	polizia	polizia	1
-781	lanciafino10mbianca	lanciafino10mbianca	1
-782	patanella	barchino	0
-783	patanella	barchino	0
-784	mototopo	mototopo	1
-785	lanciafino10mbianca	lanciafino10mbianca	1
-786	barchino	barchino	1
-787	water	water	1
-788	motobarca	motobarca	1
-789	vaporettoactv	vaporettoactv	1
-790	lanciafino10mmarrone	lanciafino10mmarrone	1
-791	water	water	1
-792	mototopo	mototopo	1
-793	raccoltarifiuti	raccoltarifiuti	1
-794	lanciafino10mbianca	lanciafino10mbianca	1
-795	topa	topa	1
-796	lanciafino10mbianca	lanciafino10mbianca	1
-797	mototopo	mototopo	1
-798	water	water	1
-799	lanciafino10mmarrone	lanciafino10mmarrone	1
-800	vaporettoactv	vaporettoactv	1
-801	vigilidelfuoco	motobarca	0
-802	water	water	1
-803	lanciafino10mbianca	lanciafino10mbianca	1
-804	lanciafino10mbianca	lanciafino10mbianca	1
-805	mototopo	mototopo	1
-806	water	water	1
-807	vaporettoactv	vaporettoactv	1
-808	vaporettoactv	vaporettoactv	1
-809	lanciafino10mbianca	lanciafino10mbianca	1
-810	mototopo	mototopo	1
-811	mototopo	mototopo	1
-812	mototopo	mototopo	1
-813	water	water	1
-814	vaporettoactv	vaporettoactv	1
-815	water	water	1
-816	water	water	1
-817	lanciafino10mbianca	lanciafino10mbianca	1
-818	lanciafino10mbianca	lanciafino10mbianca	1
-819	water	water	1
-820	lanciafino10mbianca	lanciafino10mbianca	1
-821	water	water	1
-822	lanciafino10mmarrone	lanciafino10mmarrone	1
-823	lanciafino10mmarrone	lanciafino10mmarrone	1
-824	lanciafino10mmarrone	lanciafino10mmarrone	1
-825	mototopo	mototopo	1
-826	water	water	1
-827	vaporettoactv	vaporettoactv	1
-828	water	water	1
-829	water	water	1
-830	vaporettoactv	vaporettoactv	1
-831	water	water	1
-832	ambulanza	ambulanza	1
-833	water	water	1
-834	patanella	barchino	0
-835	patanella	barchino	0
-836	patanella	patanella	1
-837	water	water	1
-838	vaporettoactv	vaporettoactv	1
-839	vaporettoactv	vaporettoactv	1
-840	mototopo	mototopo	1
-841	water	water	1
-842	mototopo	mototopo	1
-843	lanciafino10mbianca	lanciafino10mbianca	1
-844	mototopo	mototopo	1
-845	motobarca	motobarca	1
-846	vaporettoactv	vaporettoactv	1
-847	patanella	patanella	1
-848	ambulanza	ambulanza	1
-849	mototopo	mototopo	1
-850	water	water	1
-851	mototopo	mototopo	1
-852	water	water	1
-853	vaporettoactv	vaporettoactv	1
-854	polizia	polizia	1
-855	polizia	polizia	1
-856	lanciafino10mbianca	lanciafino10mbianca	1
-857	lanciafino10mbianca	lanciafino10mbianca	1
-858	cacciapesca	barchino	0
-859	lanciafino10mbianca	lanciafino10mbianca	1
-860	water	water	1
-861	vaporettoactv	vaporettoactv	1
-862	lanciafino10mmarrone	lanciafino10mmarrone	1
-863	mototopo	mototopo	1
-864	vaporettoactv	vaporettoactv	1
-865	water	water	1
-866	water	water	1
-867	water	water	1
-868	lanciafino10mbianca	lanciafino10mbianca	1
-869	lanciafino10mbianca	lanciafino10mbianca	1
-870	motobarca	motobarca	1
-871	mototopo	mototopo	1
-872	patanella	patanella	1
-873	water	water	1
-874	alilaguna	alilaguna	1
-875	lanciafino10mbianca	lanciafino10mbianca	1
-876	water	water	1
-877	vaporettoactv	vaporettoactv	1
-878	vaporettoactv	vaporettoactv	1
-879	motobarca	motobarca	1
-880	lanciafino10mbianca	lanciafino10mbianca	1
-881	lanciafino10mbianca	lanciafino10mbianca	1
-882	mototopo	mototopo	1
-883	water	water	1
-884	mototopo	mototopo	1
-885	water	water	1
-886	vaporettoactv	vaporettoactv	1
-887	lanciafino10mbianca	lanciafino10mbianca	1
-888	vaporettoactv	vaporettoactv	1
-889	vaporettoactv	vaporettoactv	1
-890	vaporettoactv	vaporettoactv	1
-891	water	water	1
-892	water	water	1
-893	water	water	1
-894	vaporettoactv	vaporettoactv	1
-895	water	water	1
-896	barchino	motobarca	0
-897	water	water	1
-898	vaporettoactv	vaporettoactv	1
-899	barchino	topa	0
-900	vaporettoactv	vaporettoactv	1
-901	mototopo	mototopo	1
-902	lanciafino10mmarrone	lanciafino10mmarrone	1
-903	lanciafino10mmarrone	lanciafino10mmarrone	1
-904	motobarca	motobarca	1
-905	vaporettoactv	vaporettoactv	1
-906	barchino	barchino	1
-907	patanella	barchino	0
-908	lanciafino10mmarrone	lanciafino10mmarrone	1
-909	water	water	1
-910	mototopo	mototopo	1
-911	water	water	1
-912	lanciafino10mmarrone	lanciafino10mmarrone	1
-913	water	water	1
-914	mototopo	mototopo	1
-915	vaporettoactv	vaporettoactv	1
-916	patanella	patanella	1
-917	water	water	1
-918	water	water	1
-919	ambulanza	ambulanza	1
-920	water	water	1
-921	lanciafino10mbianca	lanciafino10mbianca	1
-922	water	water	1
-923	mototopo	mototopo	1
-924	mototopo	mototopo	1
-925	water	water	1
-926	mototopo	mototopo	1
-927	lanciafino10mbianca	lanciafino10mbianca	1
-928	barchino	water	0
-929	barchino	barchino	1
-930	ambulanza	mototopo	0
-931	mototopo	mototopo	1
-932	vaporettoactv	vaporettoactv	1
-933	lanciafino10mmarrone	lanciafino10mmarrone	1
-934	vaporettoactv	vaporettoactv	1
-935	vaporettoactv	vaporettoactv	1
-936	water	water	1
-937	lanciafino10mbianca	lanciafino10mbianca	1
-938	patanella	topa	0
-939	lanciafino10mmarrone	lanciafino10mmarrone	1
-940	patanella	lanciafino10mmarrone	0
-941	mototopo	mototopo	1
-942	lanciafino10mbianca	lanciafino10mbianca	1
-943	motopontonerettangolare	motopontonerettangolare	1
-944	vaporettoactv	vaporettoactv	1
-945	water	water	1
-946	mototopo	mototopo	1
-947	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-948	water	water	1
-949	barchino	topa	0
-950	lanciafino10mbianca	lanciafino10mbianca	1
-951	patanella	barchino	0
-952	lanciafino10mbianca	lanciafino10mbianca	1
-953	vaporettoactv	vaporettoactv	1
-954	water	water	1
-955	vaporettoactv	vaporettoactv	1
-956	patanella	patanella	1
-957	barchino	water	0
-958	lanciafino10mbianca	lanciafino10mbianca	1
-959	vaporettoactv	vaporettoactv	1
-960	water	water	1
-961	water	water	1
-962	topa	barchino	0
-963	vaporettoactv	vaporettoactv	1
-964	water	water	1
-965	lanciafino10mbianca	lanciafino10mbianca	1
-966	water	water	1
-967	vaporettoactv	vaporettoactv	1
-968	water	water	1
-969	cacciapesca	barchino	0
-970	barchino	barchino	1
-971	barchino	barchino	1
-972	vaporettoactv	vaporettoactv	1
-973	water	water	1
-974	water	water	1
-975	mototopo	mototopo	1
-976	water	water	1
-977	motobarca	lanciafino10mmarrone	0
-978	water	water	1
-979	barchino	barchino	1
-980	water	water	1
-981	lanciafino10mbianca	lanciafino10mbianca	1
-982	lanciafino10mbianca	lanciafino10mbianca	1
-983	vigilidelfuoco	motobarca	0
-984	water	water	1
-985	vaporettoactv	vaporettoactv	1
-986	vaporettoactv	vaporettoactv	1
-987	lanciafino10mbianca	lanciafino10mbianca	1
-988	water	water	1
-989	polizia	lanciafino10mbianca	0
-990	water	water	1
-991	barchino	barchino	1
-992	water	water	1
-993	vaporettoactv	vaporettoactv	1
-994	polizia	lanciafino10mbianca	0
-995	polizia	lanciafino10mbianca	0
-996	vaporettoactv	vaporettoactv	1
-997	lanciafino10mbianca	lanciafino10mbianca	1
-998	water	water	1
-999	lanciafino10mbianca	lanciafino10mbianca	1
-1000	vaporettoactv	vaporettoactv	1
-1001	sandoloaremi	sandoloaremi	1
-1002	water	water	1
-1003	topa	topa	1
-1004	water	water	1
-1005	vaporettoactv	vaporettoactv	1
-1006	lanciafino10mbianca	polizia	0
-1007	lanciafino10mbianca	lanciafino10mbianca	1
-1008	vaporettoactv	vaporettoactv	1
-1009	lanciafino10mbianca	lanciafino10mbianca	1
-1010	water	water	1
-1011	vaporettoactv	vaporettoactv	1
-1012	lanciafino10mbianca	lanciafino10mbianca	1
-1013	mototopo	mototopo	1
-1014	lanciafino10mmarrone	lanciafino10mmarrone	1
-1015	water	water	1
-1016	lanciafino10mbianca	lanciafino10mbianca	1
-1017	water	water	1
-1018	lanciafino10mbianca	lanciafino10mbianca	1
-1019	vaporettoactv	vaporettoactv	1
-1020	vaporettoactv	vaporettoactv	1
-1021	water	water	1
-1022	topa	topa	1
-1023	topa	barchino	0
-1024	lanciafino10mbianca	lanciafino10mbianca	1
-1025	lanciafino10mbianca	lanciafino10mbianca	1
-1026	patanella	patanella	1
-1027	water	water	1
-1028	alilaguna	alilaguna	1
-1029	vaporettoactv	vaporettoactv	1
-1030	lanciafino10mbianca	lanciafino10mbianca	1
-1031	water	water	1
-1032	lanciafino10mbianca	lanciafino10mbianca	1
-1033	water	water	1
-1034	lanciafino10mmarrone	lanciafino10mmarrone	1
-1035	water	water	1
-1036	water	water	1
-1037	lanciafino10mbianca	lanciafino10mbianca	1
-1038	mototopo	mototopo	1
-1039	vaporettoactv	vaporettoactv	1
-1040	water	water	1
-1041	motobarca	motobarca	1
-1042	motobarca	motobarca	1
-1043	lanciafino10mbianca	lanciafino10mbianca	1
-1044	water	water	1
-1045	alilaguna	alilaguna	1
-1046	patanella	barchino	0
-1047	water	water	1
-1048	mototopo	mototopo	1
-1049	water	water	1
-1050	mototopo	mototopo	1
-1051	lanciafino10mmarrone	lanciafino10mmarrone	1
-1052	lanciafino10mmarrone	lanciafino10mmarrone	1
-1053	raccoltarifiuti	motobarca	0
-1054	lanciafino10mbianca	lanciafino10mbianca	1
-1055	water	water	1
-1056	vaporettoactv	vaporettoactv	1
-1057	vaporettoactv	vaporettoactv	1
-1058	vaporettoactv	vaporettoactv	1
-1059	lanciafino10mbianca	lanciafino10mbianca	1
-1060	water	water	1
-1061	patanella	mototopo	0
-1062	vaporettoactv	vaporettoactv	1
-1063	vaporettoactv	vaporettoactv	1
-1064	lanciafino10mbianca	lanciafino10mbianca	1
-1065	water	water	1
-1066	mototopo	mototopo	1
-1067	lanciafino10mmarrone	lanciafino10mmarrone	1
-1068	water	water	1
-1069	ambulanza	ambulanza	1
-1070	lanciafino10mmarrone	lanciafino10mmarrone	1
-1071	lanciafino10mmarrone	lanciafino10mmarrone	1
-1072	lanciafino10mmarrone	lanciafino10mmarrone	1
-1073	mototopo	mototopo	1
-1074	mototopo	mototopo	1
-1075	water	water	1
-1076	vaporettoactv	vaporettoactv	1
-1077	lanciafino10mmarrone	lanciafino10mmarrone	1
-1078	vaporettoactv	vaporettoactv	1
-1079	mototopo	mototopo	1
-1080	lanciafino10mbianca	lanciafino10mbianca	1
-1081	water	water	1
-1082	lanciafino10mbianca	lanciafino10mbianca	1
-1083	mototopo	mototopo	1
-1084	vaporettoactv	vaporettoactv	1
-1085	water	water	1
-1086	water	water	1
-1087	mototopo	mototopo	1
-1088	mototopo	mototopo	1
-1089	mototopo	mototopo	1
-1090	lanciafino10mbianca	lanciafino10mbianca	1
-1091	patanella	patanella	1
-1092	water	water	1
-1093	vaporettoactv	vaporettoactv	1
-1094	lanciafino10mmarrone	lanciafino10mmarrone	1
-1095	lanciafino10mmarrone	lanciafino10mmarrone	1
-1096	patanella	patanella	1
-1097	mototopo	mototopo	1
-1098	mototopo	mototopo	1
-1099	motobarca	polizia	0
-1100	water	water	1
-1101	vaporettoactv	vaporettoactv	1
-1102	vaporettoactv	vaporettoactv	1
-1103	alilaguna	alilaguna	1
-1104	vaporettoactv	vaporettoactv	1
-1105	vaporettoactv	vaporettoactv	1
-1106	water	water	1
-1107	lanciafino10mbianca	lanciafino10mbianca	1
-1108	water	water	1
-1109	vaporettoactv	vaporettoactv	1
-1110	vaporettoactv	vaporettoactv	1
-1111	water	water	1
-1112	alilaguna	alilaguna	1
-1113	mototopo	mototopo	1
-1114	water	water	1
-1115	polizia	topa	0
-1116	motobarca	water	0
-1117	mototopo	motobarca	0
-1118	motobarca	motobarca	1
-1119	water	water	1
-1120	mototopo	mototopo	1
-1121	mototopo	mototopo	1
-1122	patanella	patanella	1
-1123	water	water	1
-1124	patanella	patanella	1
-1125	motobarca	water	0
-1126	topa	barchino	0
-1127	water	water	1
-1128	mototopo	mototopo	1
-1129	mototopo	mototopo	1
-1130	water	water	1
-1131	barchino	patanella	0
-1132	vaporettoactv	vaporettoactv	1
-1133	lanciafino10mmarrone	lanciafino10mmarrone	1
-1134	mototopo	motobarca	0
-1135	sanpierota	water	0
-1136	vaporettoactv	vaporettoactv	1
-1137	vaporettoactv	vaporettoactv	1
-1138	vaporettoactv	vaporettoactv	1
-1139	vaporettoactv	vaporettoactv	1
-1140	water	water	1
-1141	lanciafino10mmarrone	patanella	0
-1142	water	water	1
-1143	water	water	1
-1144	vaporettoactv	vaporettoactv	1
-1145	mototopo	mototopo	1
-1146	mototopo	mototopo	1
-1147	lanciafino10mmarrone	lanciafino10mmarrone	1
-1148	water	water	1
-1149	topa	mototopo	0
-1150	water	water	1
-1151	vaporettoactv	vaporettoactv	1
-1152	lanciafino10mbianca	lanciafino10mbianca	1
-1153	water	water	1
-1154	water	water	1
-1155	lanciafino10mmarrone	patanella	0
-1156	vaporettoactv	vaporettoactv	1
-1157	vaporettoactv	vaporettoactv	1
-1158	mototopo	mototopo	1
-1159	vaporettoactv	vaporettoactv	1
-1160	water	water	1
-1161	vaporettoactv	vaporettoactv	1
-1162	lanciafino10mbianca	lanciafino10mbianca	1
-1163	lanciafino10mmarrone	lanciafino10mmarrone	1
-1164	lanciafino10mbianca	lanciafino10mbianca	1
-1165	lanciafino10mbianca	lanciafino10mbianca	1
-1166	lanciafino10mbianca	lanciafino10mbianca	1
-1167	water	water	1
-1168	water	water	1
-1169	lanciafino10mmarrone	lanciafino10mmarrone	1
-1170	water	water	1
-1171	vaporettoactv	vaporettoactv	1
-1172	water	water	1
-1173	alilaguna	alilaguna	1
-1174	patanella	lanciafino10mmarrone	0
-1175	water	water	1
-1176	water	water	1
-1177	mototopo	mototopo	1
-1178	vaporettoactv	vaporettoactv	1
-1179	patanella	patanella	1
-1180	water	water	1
-1181	water	water	1
-1182	barchino	barchino	1
-1183	vaporettoactv	vaporettoactv	1
-1184	vaporettoactv	vaporettoactv	1
-1185	water	water	1
-1186	water	water	1
-1187	lanciafino10mbianca	lanciafino10mbianca	1
-1188	vaporettoactv	vaporettoactv	1
-1189	topa	topa	1
-1190	mototopo	mototopo	1
-1191	water	water	1
-1192	lanciafino10mmarrone	lanciafino10mmarrone	1
-1193	lanciafino10mmarrone	lanciafino10mmarrone	1
-1194	vaporettoactv	vaporettoactv	1
-1195	vaporettoactv	vaporettoactv	1
-1196	mototopo	mototopo	1
-1197	water	water	1
-1198	mototopo	mototopo	1
-1199	vaporettoactv	vaporettoactv	1
-1200	vaporettoactv	vaporettoactv	1
-1201	lanciafino10mbianca	lanciafino10mbianca	1
-1202	lanciafino10mbianca	lanciafino10mbianca	1
-1203	water	water	1
-1204	lanciafino10mbianca	lanciafino10mbianca	1
-1205	patanella	patanella	1
-1206	water	water	1
-1207	ambulanza	ambulanza	1
-1208	vaporettoactv	vaporettoactv	1
-1209	vaporettoactv	vaporettoactv	1
-1210	lanciafino10mbianca	lanciafino10mbianca	1
-1211	lanciafino10mbianca	lanciafino10mbianca	1
-1212	patanella	patanella	1
-1213	water	water	1
-1214	lanciafino10mmarrone	lanciafino10mmarrone	1
-1215	water	water	1
-1216	vaporettoactv	vaporettoactv	1
-1217	lanciafino10mbianca	lanciafino10mbianca	1
-1218	vaporettoactv	vaporettoactv	1
-1219	lanciafino10mbianca	lanciafino10mbianca	1
-1220	lanciafino10mbianca	lanciafino10mbianca	1
-1221	lanciafino10mbianca	lanciafino10mbianca	1
-1222	water	water	1
-1223	lanciafino10mbianca	polizia	0
-1224	mototopo	mototopo	1
-1225	water	water	1
-1226	water	water	1
-1227	patanella	water	0
-1228	mototopo	mototopo	1
-1229	vaporettoactv	vaporettoactv	1
-1230	vaporettoactv	vaporettoactv	1
-1231	vaporettoactv	vaporettoactv	1
-1232	mototopo	mototopo	1
-1233	water	water	1
-1234	vaporettoactv	vaporettoactv	1
-1235	mototopo	mototopo	1
-1236	water	water	1
-1237	vaporettoactv	vaporettoactv	1
-1238	vaporettoactv	vaporettoactv	1
-1239	water	water	1
-1240	topa	topa	1
-1241	alilaguna	alilaguna	1
-1242	vaporettoactv	vaporettoactv	1
-1243	sandoloaremi	topa	0
-1244	topa	topa	1
-1245	lanciafino10mmarrone	lanciafino10mmarrone	1
-1246	lanciafino10mmarrone	lanciafino10mmarrone	1
-1247	barchino	water	0
-1248	mototopo	mototopo	1
-1249	water	water	1
-1250	water	water	1
-1251	vaporettoactv	vaporettoactv	1
-1252	water	water	1
-1253	water	water	1
-1254	vaporettoactv	vaporettoactv	1
-1255	water	water	1
-1256	patanella	lanciafino10mmarrone	0
-1257	alilaguna	alilaguna	1
-1258	vaporettoactv	water	0
-1259	water	water	1
-1260	vaporettoactv	vaporettoactv	1
-1261	water	water	1
-1262	water	water	1
-1263	mototopo	mototopo	1
-1264	water	water	1
-1265	lanciafino10mbianca	lanciafino10mbianca	1
-1266	vaporettoactv	vaporettoactv	1
-1267	vaporettoactv	vaporettoactv	1
-1268	lanciafino10mmarrone	lanciafino10mmarrone	1
-1269	vaporettoactv	vaporettoactv	1
-1270	water	water	1
-1271	lanciafino10mbianca	lanciafino10mbianca	1
-1272	lanciafino10mbianca	lanciafino10mbianca	1
-1273	motobarca	motobarca	1
-1274	barchino	barchino	1
-1275	water	water	1
-1276	mototopo	mototopo	1
-1277	water	water	1
-1278	vaporettoactv	vaporettoactv	1
-1279	vaporettoactv	vaporettoactv	1
-1280	water	water	1
-1281	lanciafino10mmarrone	lanciafino10mmarrone	1
-1282	water	water	1
-1283	water	water	1
-1284	vaporettoactv	vaporettoactv	1
-1285	vaporettoactv	vaporettoactv	1
-1286	mototopo	mototopo	1
-1287	water	water	1
-1288	lanciafino10mbianca	lanciafino10mbianca	1
-1289	water	water	1
-1290	vaporettoactv	vaporettoactv	1
-1291	lanciafino10mmarrone	lanciafino10mmarrone	1
-1292	vaporettoactv	vaporettoactv	1
-1293	water	water	1
-1294	vaporettoactv	vaporettoactv	1
-1295	vaporettoactv	vaporettoactv	1
-1296	lanciafino10mbianca	lanciafino10mbianca	1
-1297	water	water	1
-1298	motobarca	motobarca	1
-1299	water	motobarca	0
-1300	vaporettoactv	vaporettoactv	1
-1301	lanciafino10mmarrone	lanciafino10mmarrone	1
-1302	motobarca	lanciafino10mmarrone	0
-1303	vaporettoactv	vaporettoactv	1
-1304	vaporettoactv	vaporettoactv	1
-1305	alilaguna	alilaguna	1
-1306	water	water	1
-1307	lanciafino10mmarrone	lanciafino10mmarrone	1
-1308	lanciafino10mmarrone	lanciafino10mmarrone	1
-1309	lanciafino10mbianca	lanciafino10mbianca	1
-1310	lanciafino10mbianca	lanciafino10mbianca	1
-1311	vaporettoactv	vaporettoactv	1
-1312	vaporettoactv	vaporettoactv	1
-1313	vaporettoactv	vaporettoactv	1
-1314	water	water	1
-1315	lanciafino10mbianca	mototopo	0
-1316	motobarca	motopontonerettangolare	0
-1317	water	water	1
-1318	lanciafino10mbianca	lanciafino10mbianca	1
-1319	lanciafino10mmarrone	lanciafino10mmarrone	1
-1320	mototopo	mototopo	1
-1321	vaporettoactv	vaporettoactv	1
-1322	water	water	1
-1323	topa	topa	1
-1324	barchino	water	0
-1325	lanciafino10mmarrone	lanciafino10mmarrone	1
-1326	vaporettoactv	vaporettoactv	1
-1327	water	water	1
-1328	vaporettoactv	vaporettoactv	1
-1329	lanciafino10mbianca	lanciafino10mbianca	1
-1330	lanciafino10mbianca	lanciafino10mbianca	1
-1331	lanciafino10mbianca	lanciafino10mmarrone	0
-1332	lanciafino10mbianca	lanciafino10mbianca	1
-1333	vaporettoactv	vaporettoactv	1
-1334	gondola	Gondola	0
-1335	water	water	1
-1336	topa	mototopo	0
-1337	water	water	1
-1338	barchino	barchino	1
-1339	mototopo	mototopo	1
-1340	vaporettoactv	vaporettoactv	1
-1341	patanella	patanella	1
-1342	water	water	1
-1343	vaporettoactv	vaporettoactv	1
-1344	water	water	1
-1345	mototopo	mototopo	1
-1346	patanella	patanella	1
-1347	mototopo	mototopo	1
-1348	mototopo	mototopo	1
-1349	water	water	1
-1350	lanciafino10mmarrone	lanciafino10mmarrone	1
-1351	lanciafino10mmarrone	lanciafino10mmarrone	1
-1352	motobarca	lanciafino10mbianca	0
-1353	vaporettoactv	vaporettoactv	1
-1354	vaporettoactv	vaporettoactv	1
-1355	cacciapesca	lanciafino10mbianca	0
-1356	water	water	1
-1357	water	water	1
-1358	water	water	1
-1359	lanciafino10mmarrone	lanciafino10mmarrone	1
-1360	water	water	1
-1361	lanciafino10mmarrone	lanciafino10mmarrone	1
-1362	vaporettoactv	vaporettoactv	1
-1363	vaporettoactv	vaporettoactv	1
-1364	lanciafino10mbianca	lanciafino10mbianca	1
-1365	lanciafino10mbianca	lanciafino10mbianca	1
-1366	water	water	1
-1367	vaporettoactv	vaporettoactv	1
-1368	lanciafino10mbianca	lanciafino10mbianca	1
-1369	topa	topa	1
-1370	patanella	patanella	1
-1371	barchino	patanella	0
-1372	lanciafino10mbianca	lanciafino10mbianca	1
-1373	lanciafino10mbianca	lanciafino10mbianca	1
-1374	water	water	1
-1375	lanciafino10mmarrone	lanciafino10mmarrone	1
-1376	vaporettoactv	vaporettoactv	1
-1377	lanciafino10mmarrone	lanciafino10mmarrone	1
-1378	water	water	1
-1379	vaporettoactv	vaporettoactv	1
-1380	water	topa	0
-1381	water	topa	0
-1382	barchino	barchino	1
-1383	vaporettoactv	vaporettoactv	1
-1384	ambulanza	ambulanza	1
-1385	mototopo	mototopo	1
-1386	vaporettoactv	vaporettoactv	1
-1387	lanciafino10mbianca	lanciafino10mbianca	1
-1388	mototopo	mototopo	1
-1389	lanciafino10mbianca	lanciafino10mbianca	1
-1390	mototopo	mototopo	1
-1391	patanella	topa	0
-1392	topa	mototopo	0
-1393	mototopo	mototopo	1
-1394	water	water	1
-1395	topa	patanella	0
-1396	water	water	1
-1397	vaporettoactv	vaporettoactv	1
-1398	water	water	1
-1399	water	water	1
-1400	lanciafino10mbianca	lanciafino10mbianca	1
-1401	lanciafino10mbianca	lanciafino10mbianca	1
-1402	lanciafino10mbianca	lanciafino10mbianca	1
-1403	barchino	barchino	1
-1404	mototopo	ambulanza	0
-1405	barchino	motobarca	0
-1406	topa	sandoloaremi	0
-1407	topa	sandoloaremi	0
-1408	vaporettoactv	vaporettoactv	1
-1409	vaporettoactv	vaporettoactv	1
-1410	lanciafino10mbianca	lanciafino10mbianca	1
-1411	water	water	1
-1412	vaporettoactv	vaporettoactv	1
-1413	water	water	1
-1414	vaporettoactv	vaporettoactv	1
-1415	water	water	1
-1416	lanciafino10mbianca	water	0
-1417	lanciafino10mbianca	lanciafino10mbianca	1
-1418	barchino	lanciafino10mbianca	0
-1419	lanciafino10mmarrone	lanciafino10mmarrone	1
-1420	vaporettoactv	vaporettoactv	1
-1421	water	water	1
-1422	barchino	barchino	1
-1423	lanciafino10mbianca	lanciafino10mbianca	1
-1424	lanciafino10mbianca	lanciafino10mbianca	1
-1425	vaporettoactv	vaporettoactv	1
-1426	motobarca	motobarca	1
-1427	lanciafino10mbianca	lanciafino10mbianca	1
-1428	water	water	1
-1429	lanciafino10mmarrone	lanciafino10mmarrone	1
-1430	water	water	1
-1431	mototopo	mototopo	1
-1432	water	water	1
-1433	vaporettoactv	vaporettoactv	1
-1434	lanciafino10mbianca	lanciafino10mbianca	1
-1435	lanciafino10mmarrone	lanciafino10mmarrone	1
-1436	water	water	1
-1437	water	water	1
-1438	vaporettoactv	vaporettoactv	1
-1439	mototopo	mototopo	1
-1440	water	water	1
-1441	mototopo	mototopo	1
-1442	vaporettoactv	vaporettoactv	1
-1443	lanciafino10mmarrone	lanciafino10mmarrone	1
-1444	cacciapesca	barchino	0
-1445	water	water	1
-1446	vaporettoactv	vaporettoactv	1
-1447	lanciafino10mmarrone	lanciafino10mmarrone	1
-1448	lanciafino10mmarrone	lanciafino10mmarrone	1
-1449	lanciafino10mmarrone	lanciafino10mmarrone	1
-1450	vaporettoactv	vaporettoactv	1
-1451	barchino	barchino	1
-1452	water	lanciafino10mbianca	0
-1453	topa	mototopo	0
-1454	water	water	1
-1455	lanciafino10mmarrone	lanciafino10mmarrone	1
-1456	mototopo	mototopo	1
-1457	vaporettoactv	vaporettoactv	1
-1458	water	water	1
-1459	barchino	patanella	0
-1460	lanciafino10mmarrone	lanciafino10mmarrone	1
-1461	water	water	1
-1462	lanciafino10mbianca	lanciafino10mmarrone	0
-1463	lanciafino10mmarrone	lanciafino10mmarrone	1
-1464	water	water	1
-1465	water	water	1
-1466	vaporettoactv	vaporettoactv	1
-1467	vaporettoactv	vaporettoactv	1
-1468	motobarca	motobarca	1
-1469	motobarca	motobarca	1
-1470	motobarca	motobarca	1
-1471	motobarca	mototopo	0
-1472	mototopo	mototopo	1
-1473	water	water	1
-1474	vaporettoactv	vaporettoactv	1
-1475	vaporettoactv	vaporettoactv	1
-1476	water	water	1
-1477	ambulanza	vaporettoactv	0
-1478	water	water	1
-1479	sanpierota	barchino	0
-1480	topa	barchino	0
-1481	water	water	1
-1482	ambulanza	ambulanza	1
-1483	sanpierota	barchino	0
-1484	water	water	1
-1485	vaporettoactv	vaporettoactv	1
-1486	water	water	1
-1487	alilaguna	alilaguna	1
-1488	vaporettoactv	vaporettoactv	1
-1489	lanciafino10mbianca	lanciafino10mbianca	1
-1490	topa	mototopo	0
-1491	mototopo	mototopo	1
-1492	cacciapesca	lanciafino10mbianca	0
-1493	vaporettoactv	vaporettoactv	1
-1494	water	water	1
-1495	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-1496	patanella	barchino	0
-1497	vaporettoactv	vaporettoactv	1
-1498	lanciafino10mmarrone	lanciafino10mmarrone	1
-1499	lanciafino10mmarrone	lanciafino10mmarrone	1
-1500	vaporettoactv	vaporettoactv	1
-1501	polizia	barchino	0
-1502	water	water	1
-1503	water	water	1
-1504	motobarca	alilaguna	0
-1505	vaporettoactv	vaporettoactv	1
-1506	lanciafino10mmarrone	lanciafino10mmarrone	1
-1507	vaporettoactv	vaporettoactv	1
-1508	lanciafino10mbianca	lanciafino10mbianca	1
-1509	lanciafino10mmarrone	lanciafino10mmarrone	1
-1510	lanciafino10mmarrone	lanciafino10mmarrone	1
-1511	water	water	1
-1512	lanciafino10mbianca	lanciafino10mbianca	1
-1513	patanella	water	0
-1514	barchino	water	0
-1515	vaporettoactv	vaporettoactv	1
-1516	vaporettoactv	vaporettoactv	1
-1517	water	water	1
-1518	vaporettoactv	vaporettoactv	1
-1519	water	water	1
-1520	patanella	barchino	0
-1521	water	water	1
-1522	lanciafino10mbianca	lanciafino10mbianca	1
-1523	lanciafino10mbianca	lanciamaggioredi10mbianca	0
-1524	polizia	lanciafino10mbianca	0
-1525	lanciafino10mbianca	lanciafino10mbianca	1
-1526	water	water	1
-1527	mototopo	mototopo	1
-1528	cacciapesca	barchino	0
-1529	motobarca	motobarca	1
-1530	vaporettoactv	vaporettoactv	1
-1531	water	water	1
-1532	lanciafino10mmarrone	lanciafino10mmarrone	1
-1533	water	water	1
-1534	vaporettoactv	vaporettoactv	1
-1535	water	water	1
-1536	patanella	patanella	1
-1537	patanella	patanella	1
-1538	vaporettoactv	vaporettoactv	1
-1539	vaporettoactv	vaporettoactv	1
-1540	mototopo	mototopo	1
-1541	water	water	1
-1542	vaporettoactv	vaporettoactv	1
-1543	motobarca	ambulanza	0
-1544	lanciafino10mmarrone	lanciafino10mmarrone	1
-1545	water	water	1
-1546	mototopo	mototopo	1
-1547	mototopo	mototopo	1
-1548	lanciafino10mmarrone	water	0
-1549	lanciafino10mbianca	lanciafino10mbianca	1
-1550	water	water	1
-1551	mototopo	mototopo	1
-1552	vaporettoactv	vaporettoactv	1
-1553	vaporettoactv	vaporettoactv	1
-1554	water	water	1
-1555	lanciafino10mbianca	lanciafino10mbianca	1
-1556	water	water	1
-1557	mototopo	mototopo	1
-1558	lanciafino10mmarrone	lanciafino10mmarrone	1
-1559	lanciafino10mmarrone	lanciafino10mmarrone	1
-1560	motobarca	motobarca	1
-1561	lanciafino10mbianca	lanciafino10mbianca	1
-1562	vaporettoactv	vaporettoactv	1
-1563	vaporettoactv	vaporettoactv	1
-1564	lanciafino10mmarrone	lanciafino10mmarrone	1
-1565	lanciafino10mmarrone	lanciafino10mmarrone	1
-1566	lanciafino10mmarrone	lanciafino10mmarrone	1
-1567	vaporettoactv	vaporettoactv	1
-1568	water	water	1
-1569	vaporettoactv	vaporettoactv	1
-1570	vaporettoactv	vaporettoactv	1
-1571	patanella	patanella	1
-1572	water	water	1
-1573	mototopo	mototopo	1
-1574	motobarca	water	0
-1575	mototopo	mototopo	1
-1576	vaporettoactv	vaporettoactv	1
-1577	raccoltarifiuti	raccoltarifiuti	1
-1578	patanella	patanella	1
-1579	water	water	1
-1580	lanciafino10mmarrone	lanciafino10mmarrone	1
-1581	vigilidelfuoco	ambulanza	0
-1582	water	water	1
-1583	patanella	patanella	1
-1584	water	water	1
-1585	vaporettoactv	vaporettoactv	1
-1586	vaporettoactv	vaporettoactv	1
-1587	lanciafino10mmarrone	lanciafino10mmarrone	1
-1588	lanciafino10mmarrone	lanciafino10mmarrone	1
-1589	vaporettoactv	vaporettoactv	1
-1590	polizia	polizia	1
-1591	vaporettoactv	vaporettoactv	1
-1592	lanciafino10mmarrone	lanciafino10mmarrone	1
-1593	water	water	1
-1594	topa	barchino	0
-1595	water	water	1
-1596	water	water	1
-1597	lanciafino10mbianca	lanciafino10mbianca	1
-1598	vaporettoactv	vaporettoactv	1
-1599	water	water	1
-1600	water	water	1
-1601	vaporettoactv	vaporettoactv	1
-1602	water	water	1
-1603	lanciafino10mmarrone	lanciafino10mmarrone	1
-1604	water	water	1
-1605	vaporettoactv	vaporettoactv	1
-1606	water	water	1
-1607	patanella	lanciafino10mbianca	0
-1608	lanciafino10mbianca	lanciafino10mbianca	1
-1609	lanciafino10mbianca	lanciafino10mbianca	1
-1610	vaporettoactv	vaporettoactv	1
-1611	vaporettoactv	vaporettoactv	1
-1612	lanciafino10mbianca	lanciafino10mbianca	1
-1613	water	water	1
-1614	lanciafino10mbianca	lanciafino10mbianca	1
-1615	water	water	1
-1616	lanciafino10mmarrone	lanciafino10mmarrone	1
-1617	lanciafino10mmarrone	lanciafino10mmarrone	1
-1618	mototopo	mototopo	1
-1619	vaporettoactv	vaporettoactv	1
-1620	water	water	1
-1621	water	water	1
-1622	vaporettoactv	vaporettoactv	1
-1623	water	water	1
-1624	vaporettoactv	vaporettoactv	1
-1625	vaporettoactv	vaporettoactv	1
-1626	vaporettoactv	vaporettoactv	1
-1627	patanella	lanciafino10mmarrone	0
-1628	lanciafino10mmarrone	lanciafino10mmarrone	1
-1629	mototopo	mototopo	1
-1630	water	water	1
-1631	water	water	1
-1632	lanciafino10mbianca	lanciafino10mbianca	1
-1633	mototopo	mototopo	1
-1634	water	water	1
-1635	lanciafino10mmarrone	lanciafino10mmarrone	1
-1636	vaporettoactv	vaporettoactv	1
-1637	water	water	1
-1638	lanciafino10mbianca	lanciafino10mbianca	1
-1639	lanciafino10mbianca	lanciafino10mbianca	1
-1640	water	water	1
-1641	mototopo	mototopo	1
-1642	lanciafino10mbianca	lanciafino10mbianca	1
-1643	water	water	1
-1644	vaporettoactv	vaporettoactv	1
-1645	water	water	1
-1646	vaporettoactv	vaporettoactv	1
-1647	water	water	1
-1648	patanella	lanciafino10mmarrone	0
-1649	lanciafino10mbianca	lanciafino10mbianca	1
-1650	water	water	1
-1651	vaporettoactv	vaporettoactv	1
-1652	water	water	1
-1653	vaporettoactv	vaporettoactv	1
-1654	patanella	patanella	1
-1655	lanciafino10mbianca	lanciafino10mbianca	1
-1656	lanciafino10mbianca	lanciafino10mbianca	1
-1657	vaporettoactv	vaporettoactv	1
-1658	lanciafino10mmarrone	lanciafino10mmarrone	1
-1659	water	water	1
-1660	water	water	1
-1661	water	water	1
-1662	ambulanza	ambulanza	1
-1663	topa	topa	1
-1664	mototopo	mototopo	1
-1665	water	water	1
-1666	vaporettoactv	vaporettoactv	1
-1667	water	water	1
-1668	water	water	1
-1669	lanciafino10mbianca	lanciafino10mbianca	1
-1670	lanciafino10mbianca	polizia	0
-1671	water	water	1
-1672	water	water	1
-1673	lanciafino10mbianca	lanciafino10mbianca	1
-1674	topa	barchino	0
-1675	vaporettoactv	vaporettoactv	1
-1676	vaporettoactv	vaporettoactv	1
-1677	topa	mototopo	0
-1678	vaporettoactv	vaporettoactv	1
-1679	lanciafino10mmarrone	lanciafino10mmarrone	1
-1680	water	water	1
-1681	alilaguna	alilaguna	1
+0,prediction,actual,Output
+1,water,water,1
+2,lanciafino10mmarrone,motobarca,0
+3,vaporettoactv,vaporettoactv,1
+4,mototopo,mototopo,1
+5,mototopo,mototopo,1
+6,vaporettoactv,vaporettoactv,1
+7,mototopo,mototopo,1
+8,vaporettoactv,vaporettoactv,1
+9,water,water,1
+10,mototopo,mototopo,1
+11,water,water,1
+12,mototopo,mototopo,1
+13,patanella,patanella,1
+14,lanciafino10m,motobarca,0
+15,gondola,mototopo,0
+16,mototopo,mototopo,1
+17,mototopo,mototopo,1
+18,vaporettoactv,vaporettoactv,1
+19,vaporettoactv,vaporettoactv,1
+20,vaporettoactv,vaporettoactv,1
+21,patanella,mototopo,0
+22,water,water,1
+23,motoscafoactv,motoscafoactv,1
+24,vaporettoactv,vaporettoactv,1
+25,vaporettoactv,vaporettoactv,1
+26,water,water,1
+27,mototopo,mototopo,1
+28,mototopo,mototopo,1
+29,patanella,motobarca,0
+30,vaporettoactv,vaporettoactv,1
+31,water,water,1
+32,vaporettoactv,vaporettoactv,1
+33,mototopo,mototopo,1
+34,vaporettoactv,vaporettoactv,1
+35,vaporettoactv,vaporettoactv,1
+36,water,water,1
+37,lanciafino10mmarrone,patanella,0
+38,patanella,patanella,1
+39,mototopo,mototopo,1
+40,mototopo,mototopo,1
+41,motobarca,motobarca,1
+42,water,water,1
+43,mototopo,mototopo,1
+44,motobarca,mototopo,0
+45,mototopo,mototopo,1
+46,motobarca,water,0
+47,motobarca,water,0
+48,water,water,1
+49,water,water,1
+50,raccoltarifiuti,water,0
+51,motobarca,motobarca,1
+52,lanciafino10mbianca,lanciafino10mbianca,1
+53,vaporettoactv,vaporettoactv,1
+54,water,water,1
+55,vaporettoactv,vaporettoactv,1
+56,mototopo,mototopo,1
+57,lanciafino10mbianca,lanciafino10mbianca,1
+58,water,water,1
+59,vaporettoactv,vaporettoactv,1
+60,mototopo,mototopo,1
+61,mototopo,mototopo,1
+62,water,water,1
+63,motobarca,mototopo,0
+64,ambulanza,lanciafino10mbianca,0
+65,vaporettoactv,vaporettoactv,1
+66,mototopo,mototopo,1
+67,mototopo,mototopo,1
+68,patanella,patanella,1
+69,mototopo,motobarca,0
+70,mototopo,mototopo,1
+71,motobarca,water,0
+72,mototopo,mototopo,1
+73,ambulanza,mototopo,0
+74,mototopo,motobarca,0
+75,mototopo,motobarca,0
+76,mototopo,mototopo,1
+77,lanciafino10mbianca,lanciafino10mbianca,1
+78,lanciafino10mbianca,lanciafino10mbianca,1
+79,vaporettoactv,vaporettoactv,1
+80,water,water,1
+81,mototopo,mototopo,1
+82,mototopo,mototopo,1
+83,vaporettoactv,vaporettoactv,1
+84,lanciafino10mbianca,lanciafino10mbianca,1
+85,water,water,1
+86,vaporettoactv,vaporettoactv,1
+87,mototopo,mototopo,1
+88,mototopo,mototopo,1
+89,water,water,1
+90,patanella,patanella,1
+91,mototopo,mototopo,1
+92,mototopo,mototopo,1
+93,vaporettoactv,vaporettoactv,1
+94,vaporettoactv,vaporettoactv,1
+95,vigilidelfuoco,lanciafino10mbianca,0
+96,vaporettoactv,vaporettoactv,1
+97,motobarca,mototopo,0
+98,mototopo,mototopo,1
+99,water,water,1
+100,water,water,1
+101,lanciafino10mmarrone,lanciafino10mmarrone,1
+102,water,water,1
+103,mototopo,mototopo,1
+104,mototopo,mototopo,1
+105,mototopo,mototopo,1
+106,mototopo,mototopo,1
+107,mototopo,mototopo,1
+108,vaporettoactv,vaporettoactv,1
+109,mototopo,mototopo,1
+110,motobarca,motobarca,1
+111,lanciafino10mbianca,lanciafino10mbianca,1
+112,water,water,1
+113,mototopo,mototopo,1
+114,vaporettoactv,vaporettoactv,1
+115,mototopo,mototopo,1
+116,water,water,1
+117,mototopo,mototopo,1
+118,mototopo,mototopo,1
+119,lanciafino10mmarrone,lanciafino10mmarrone,1
+120,mototopo,mototopo,1
+121,lanciafino10mmarrone,lanciafino10mmarrone,1
+122,vaporettoactv,vaporettoactv,1
+123,water,water,1
+124,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+125,mototopo,mototopo,1
+126,vaporettoactv,vaporettoactv,1
+127,water,water,1
+128,mototopo,mototopo,1
+129,motobarca,motobarca,1
+130,water,water,1
+131,patanella,patanella,1
+132,vaporettoactv,vaporettoactv,1
+133,lanciafino10mbianca,lanciafino10mbianca,1
+134,motobarca,motobarca,1
+135,water,water,1
+136,motobarca,motobarca,1
+137,ambulanza,mototopo,0
+138,mototopo,mototopo,1
+139,lanciafino10mbianca,lanciafino10mbianca,1
+140,motobarca,lanciafino10mbianca,0
+141,vaporettoactv,vaporettoactv,1
+142,mototopo,mototopo,1
+143,mototopo,mototopo,1
+144,mototopo,mototopo,1
+145,mototopo,mototopo,1
+146,mototopo,mototopo,1
+147,motobarca,mototopo,0
+148,vaporettoactv,vaporettoactv,1
+149,motobarca,motobarca,1
+150,water,water,1
+151,mototopo,mototopo,1
+152,water,water,1
+153,vaporettoactv,vaporettoactv,1
+154,vaporettoactv,vaporettoactv,1
+155,vaporettoactv,vaporettoactv,1
+156,topa,topa,1
+157,mototopo,mototopo,1
+158,mototopo,mototopo,1
+159,water,water,1
+160,mototopo,mototopo,1
+161,vaporettoactv,vaporettoactv,1
+162,lanciafino10mbianca,lanciafino10mbianca,1
+163,patanella,barchino,0
+164,barchino,barchino,1
+165,vaporettoactv,vaporettoactv,1
+166,mototopo,mototopo,1
+167,vaporettoactv,vaporettoactv,1
+168,lanciafino10mbianca,barchino,0
+169,water,water,1
+170,vaporettoactv,vaporettoactv,1
+171,ambulanza,mototopo,0
+172,water,water,1
+173,raccoltarifiuti,raccoltarifiuti,1
+174,vaporettoactv,vaporettoactv,1
+175,mototopo,mototopo,1
+176,water,water,1
+177,vaporettoactv,vaporettoactv,1
+178,water,water,1
+179,raccoltarifiuti,raccoltarifiuti,1
+180,mototopo,mototopo,1
+181,lanciafino10mmarrone,lanciafino10mmarrone,1
+182,vaporettoactv,vaporettoactv,1
+183,mototopo,mototopo,1
+184,mototopo,mototopo,1
+185,mototopo,mototopo,1
+186,water,water,1
+187,lanciafino10mbianca,lanciafino10mbianca,1
+188,lanciafino10mbianca,lanciafino10mbianca,1
+189,vaporettoactv,vaporettoactv,1
+190,water,water,1
+191,mototopo,mototopo,1
+192,lanciafino10mbianca,lanciafino10mbianca,1
+193,mototopo,mototopo,1
+194,cacciapesca,barchino,0
+195,lanciafino10mbianca,lanciafino10mbianca,1
+196,water,water,1
+197,lanciafino10mbianca,water,0
+198,vaporettoactv,vaporettoactv,1
+199,vaporettoactv,vaporettoactv,1
+200,vaporettoactv,vaporettoactv,1
+201,water,water,1
+202,water,water,1
+203,mototopo,mototopo,1
+204,patanella,patanella,1
+205,vaporettoactv,vaporettoactv,1
+206,water,water,1
+207,water,water,1
+208,vaporettoactv,vaporettoactv,1
+209,water,water,1
+210,lanciafino10mbianca,lanciafino10mbianca,1
+211,lanciafino10mbianca,lanciafino10mbianca,1
+212,motobarca,mototopo,0
+213,water,water,1
+214,mototopo,mototopo,1
+215,water,water,1
+216,lanciafino10mbianca,lanciafino10mbianca,1
+217,vaporettoactv,vaporettoactv,1
+218,water,water,1
+219,vaporettoactv,vaporettoactv,1
+220,vaporettoactv,vaporettoactv,1
+221,motobarca,mototopo,0
+222,vaporettoactv,vaporettoactv,1
+223,lanciafino10mmarrone,lanciafino10mmarrone,1
+224,water,water,1
+225,mototopo,mototopo,1
+226,mototopo,mototopo,1
+227,raccoltarifiuti,raccoltarifiuti,1
+228,raccoltarifiuti,raccoltarifiuti,1
+229,mototopo,mototopo,1
+230,water,water,1
+231,vaporettoactv,vaporettoactv,1
+232,lanciafino10mbianca,lanciafino10mmarrone,0
+233,mototopo,mototopo,1
+234,lanciafino10mbianca,lanciafino10mbianca,1
+235,water,water,1
+236,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+237,mototopo,mototopo,1
+238,lanciafino10mbianca,lanciafino10mbianca,1
+239,lanciafino10mbianca,lanciafino10mbianca,1
+240,lanciafino10mbianca,lanciafino10mbianca,1
+241,water,water,1
+242,vaporettoactv,vaporettoactv,1
+243,vaporettoactv,vaporettoactv,1
+244,mototopo,mototopo,1
+245,mototopo,mototopo,1
+246,vaporettoactv,vaporettoactv,1
+247,lanciafino10mbianca,lanciafino10mbianca,1
+248,vaporettoactv,vaporettoactv,1
+249,patanella,patanella,1
+250,water,water,1
+251,lanciafino10mmarrone,patanella,0
+252,lanciafino10mbianca,lanciafino10mbianca,1
+253,mototopo,lanciafino10mmarrone,0
+254,lanciafino10mmarrone,lanciafino10mmarrone,1
+255,water,water,1
+256,lanciafino10mbianca,lanciafino10mbianca,1
+257,vaporettoactv,vaporettoactv,1
+258,barchino,topa,0
+259,lanciafino10mbianca,lanciafino10mmarrone,0
+260,vaporettoactv,vaporettoactv,1
+261,mototopo,mototopo,1
+262,ambulanza,ambulanza,1
+263,lanciafino10mmarrone,ambulanza,0
+264,mototopo,mototopo,1
+265,mototopo,mototopo,1
+266,mototopo,mototopo,1
+267,lanciafino10mmarrone,lanciafino10mmarrone,1
+268,lanciafino10mbianca,lanciafino10mbianca,1
+269,mototopo,mototopo,1
+270,topa,patanella,0
+271,water,water,1
+272,patanella,patanella,1
+273,water,water,1
+274,patanella,water,0
+275,patanella,patanella,1
+276,mototopo,mototopo,1
+277,vaporettoactv,vaporettoactv,1
+278,vaporettoactv,vaporettoactv,1
+279,water,water,1
+280,lanciafino10mbianca,lanciafino10mbianca,1
+281,lanciafino10mbianca,lanciafino10mbianca,1
+282,mototopo,mototopo,1
+283,patanella,patanella,1
+284,mototopo,mototopo,1
+285,vaporettoactv,vaporettoactv,1
+286,water,water,1
+287,lanciafino10mmarrone,topa,0
+288,lanciafino10mbianca,lanciafino10mbianca,1
+289,water,water,1
+290,topa,barchino,0
+291,vaporettoactv,vaporettoactv,1
+292,lanciafino10mbianca,lanciafino10mbianca,1
+293,water,water,1
+294,vaporettoactv,vaporettoactv,1
+295,vaporettoactv,vaporettoactv,1
+296,water,water,1
+297,water,water,1
+298,patanella,topa,0
+299,topa,topa,1
+300,lanciafino10mbianca,lanciafino10mbianca,1
+301,mototopo,mototopo,1
+302,water,water,1
+303,motobarca,motobarca,1
+304,lanciafino10mbianca,lanciafino10mbianca,1
+305,motobarca,motobarca,1
+306,water,water,1
+307,alilaguna,alilaguna,1
+308,patanella,polizia,0
+309,patanella,lanciafino10mbianca,0
+310,vaporettoactv,vaporettoactv,1
+311,polizia,polizia,1
+312,mototopo,mototopo,1
+313,vaporettoactv,vaporettoactv,1
+314,mototopo,mototopo,1
+315,barchino,barchino,1
+316,lanciafino10mmarrone,lanciafino10mmarrone,1
+317,lanciafino10mmarrone,lanciafino10mmarrone,1
+318,vaporettoactv,vaporettoactv,1
+319,mototopo,mototopo,1
+320,vaporettoactv,vaporettoactv,1
+321,water,water,1
+322,alilaguna,alilaguna,1
+323,mototopo,mototopo,1
+324,water,water,1
+325,patanella,barchino,0
+326,water,water,1
+327,topa,topa,1
+328,patanella,topa,0
+329,vaporettoactv,vaporettoactv,1
+330,mototopo,mototopo,1
+331,lanciafino10mbianca,lanciafino10mbianca,1
+332,water,water,1
+333,lanciafino10mbianca,lanciafino10mbianca,1
+334,water,water,1
+335,patanella,patanella,1
+336,patanella,patanella,1
+337,vaporettoactv,vaporettoactv,1
+338,vaporettoactv,vaporettoactv,1
+339,mototopo,motobarca,0
+340,vaporettoactv,vaporettoactv,1
+341,water,water,1
+342,mototopo,mototopo,1
+343,motobarca,mototopo,0
+344,polizia,polizia,1
+345,patanella,patanella,1
+346,patanella,patanella,1
+347,vaporettoactv,vaporettoactv,1
+348,water,water,1
+349,mototopo,mototopo,1
+350,water,water,1
+351,mototopo,mototopo,1
+352,water,water,1
+353,patanella,patanella,1
+354,patanella,patanella,1
+355,motobarca,motobarca,1
+356,vaporettoactv,vaporettoactv,1
+357,polizia,patanella,0
+358,patanella,barchino,0
+359,sandoloaremi,topa,0
+360,vaporettoactv,vaporettoactv,1
+361,lanciafino10mbianca,lanciafino10mbianca,1
+362,mototopo,mototopo,1
+363,patanella,topa,0
+364,water,water,1
+365,vaporettoactv,vaporettoactv,1
+366,vaporettoactv,vaporettoactv,1
+367,barchino,barchino,1
+368,lanciafino10m,lanciafino10mbianca,0
+369,mototopo,mototopo,1
+370,lanciafino10mbianca,lanciafino10mbianca,1
+371,water,water,1
+372,lanciafino10mmarrone,lanciafino10mmarrone,1
+373,lanciafino10mbianca,lanciafino10mbianca,1
+374,ambulanza,ambulanza,1
+375,water,water,1
+376,water,water,1
+377,vaporettoactv,vaporettoactv,1
+378,alilaguna,alilaguna,1
+379,mototopo,mototopo,1
+380,water,water,1
+381,mototopo,mototopo,1
+382,mototopo,mototopo,1
+383,water,water,1
+384,water,water,1
+385,patanella,patanella,1
+386,patanella,patanella,1
+387,patanella,patanella,1
+388,mototopo,mototopo,1
+389,barchino,mototopo,0
+390,mototopo,mototopo,1
+391,lanciafino10mmarrone,lanciafino10mmarrone,1
+392,vaporettoactv,vaporettoactv,1
+393,mototopo,mototopo,1
+394,vaporettoactv,vaporettoactv,1
+395,motobarca,motobarca,1
+396,polizia,lanciafino10mbianca,0
+397,lanciafino10mbianca,lanciafino10mbianca,1
+398,lanciafino10mmarrone,lanciafino10mmarrone,1
+399,water,water,1
+400,mototopo,mototopo,1
+401,mototopo,mototopo,1
+402,mototopo,mototopo,1
+403,water,water,1
+404,mototopo,mototopo,1
+405,water,water,1
+406,ambulanza,mototopo,0
+407,vaporettoactv,vaporettoactv,1
+408,water,water,1
+409,patanella,patanella,1
+410,water,water,1
+411,mototopo,mototopo,1
+412,motobarca,lanciafino10mmarrone,0
+413,water,water,1
+414,mototopo,mototopo,1
+415,lanciafino10mmarrone,lanciafino10mmarrone,1
+416,water,water,1
+417,lanciafino10mbianca,lanciafino10mbianca,1
+418,motoscafoactv,topa,0
+419,vaporettoactv,vaporettoactv,1
+420,water,water,1
+421,patanella,barchino,0
+422,water,water,1
+423,lanciafino10mbianca,lanciafino10mbianca,1
+424,water,water,1
+425,vaporettoactv,vaporettoactv,1
+426,vaporettoactv,vaporettoactv,1
+427,vaporettoactv,vaporettoactv,1
+428,vaporettoactv,vaporettoactv,1
+429,mototopo,mototopo,1
+430,water,water,1
+431,water,water,1
+432,mototopo,mototopo,1
+433,polizia,lanciafino10mmarrone,0
+434,mototopo,mototopo,1
+435,water,water,1
+436,lanciafino10mbianca,lanciafino10mbianca,1
+437,lanciafino10m,lanciafino10mbianca,0
+438,vaporettoactv,vaporettoactv,1
+439,motobarca,raccoltarifiuti,0
+440,mototopo,water,0
+441,polizia,polizia,1
+442,water,water,1
+443,patanella,patanella,1
+444,water,water,1
+445,ambulanza,ambulanza,1
+446,vaporettoactv,vaporettoactv,1
+447,lanciafino10mbianca,polizia,0
+448,water,water,1
+449,ambulanza,ambulanza,1
+450,vaporettoactv,vaporettoactv,1
+451,mototopo,mototopo,1
+452,water,water,1
+453,motobarca,mototopo,0
+454,water,water,1
+455,polizia,lanciafino10mbianca,0
+456,lanciafino10mbianca,lanciafino10mbianca,1
+457,lanciafino10mmarrone,lanciafino10mmarrone,1
+458,water,water,1
+459,vaporettoactv,vaporettoactv,1
+460,water,water,1
+461,water,water,1
+462,lanciafino10mbianca,lanciafino10mbianca,1
+463,mototopo,mototopo,1
+464,water,water,1
+465,water,water,1
+466,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+467,water,water,1
+468,mototopo,mototopo,1
+469,mototopo,mototopo,1
+470,water,water,1
+471,lanciafino10mbianca,lanciafino10mbianca,1
+472,water,water,1
+473,lanciafino10mbianca,lanciafino10mbianca,1
+474,water,water,1
+475,vaporettoactv,vaporettoactv,1
+476,motobarca,motobarca,1
+477,raccoltarifiuti,motobarca,0
+478,water,water,1
+479,patanella,barchino,0
+480,lanciafino10mbianca,motobarca,0
+481,motobarca,motobarca,1
+482,mototopo,mototopo,1
+483,water,water,1
+484,vaporettoactv,vaporettoactv,1
+485,patanella,patanella,1
+486,water,water,1
+487,lanciafino10mbianca,lanciafino10mbianca,1
+488,vaporettoactv,vaporettoactv,1
+489,water,water,1
+490,lanciafino10mbianca,motobarca,0
+491,ambulanza,ambulanza,1
+492,mototopo,mototopo,1
+493,vaporettoactv,vaporettoactv,1
+494,mototopo,mototopo,1
+495,water,water,1
+496,mototopo,mototopo,1
+497,water,water,1
+498,mototopo,patanella,0
+499,motobarca,mototopo,0
+500,vaporettoactv,vaporettoactv,1
+501,patanella,patanella,1
+502,patanella,patanella,1
+503,vaporettoactv,vaporettoactv,1
+504,topa,patanella,0
+505,mototopo,mototopo,1
+506,vaporettoactv,vaporettoactv,1
+507,lanciafino10mmarrone,lanciafino10mmarrone,1
+508,patanella,lanciafino10mmarrone,0
+509,mototopo,motobarca,0
+510,patanella,patanella,1
+511,motobarca,motobarca,1
+512,water,water,1
+513,lanciafino10mbianca,patanella,0
+514,mototopo,mototopo,1
+515,barchino,barchino,1
+516,vaporettoactv,vaporettoactv,1
+517,raccoltarifiuti,raccoltarifiuti,1
+518,polizia,lanciafino10mbianca,0
+519,water,water,1
+520,vaporettoactv,vaporettoactv,1
+521,vaporettoactv,vaporettoactv,1
+522,lanciafino10mbianca,lanciafino10mbianca,1
+523,mototopo,mototopo,1
+524,mototopo,mototopo,1
+525,water,water,1
+526,lanciafino10mmarrone,lanciafino10mmarrone,1
+527,lanciafino10mmarrone,lanciafino10mmarrone,1
+528,mototopo,mototopo,1
+529,water,water,1
+530,mototopo,mototopo,1
+531,mototopo,mototopo,1
+532,water,water,1
+533,mototopo,mototopo,1
+534,mototopo,mototopo,1
+535,lanciafino10mbianca,lanciafino10mbianca,1
+536,water,water,1
+537,vaporettoactv,vaporettoactv,1
+538,raccoltarifiuti,raccoltarifiuti,1
+539,vaporettoactv,vaporettoactv,1
+540,vaporettoactv,vaporettoactv,1
+541,motopontonerettangolare,motopontonerettangolare,1
+542,water,water,1
+543,lanciafino10mbianca,lanciafino10mbianca,1
+544,water,raccoltarifiuti,0
+545,patanella,patanella,1
+546,vaporettoactv,vaporettoactv,1
+547,mototopo,mototopo,1
+548,patanella,patanella,1
+549,water,water,1
+550,lanciafino10mbianca,lanciafino10mbianca,1
+551,patanella,patanella,1
+552,mototopo,mototopo,1
+553,patanella,lanciafino10mmarrone,0
+554,vaporettoactv,vaporettoactv,1
+555,mototopo,mototopo,1
+556,water,water,1
+557,patanella,lanciafino10mmarrone,0
+558,water,water,1
+559,lanciafino10mbianca,lanciafino10mbianca,1
+560,lanciafino10mmarrone,lanciafino10mmarrone,1
+561,lanciafino10mbianca,lanciafino10mbianca,1
+562,water,water,1
+563,vaporettoactv,vaporettoactv,1
+564,motobarca,raccoltarifiuti,0
+565,lanciafino10mbianca,mototopo,0
+566,vaporettoactv,vaporettoactv,1
+567,lanciafino10mmarrone,lanciafino10mmarrone,1
+568,water,water,1
+569,lanciafino10mbianca,lanciafino10mbianca,1
+570,barchino,lanciafino10mbianca,0
+571,lanciafino10mmarrone,lanciafino10mmarrone,1
+572,mototopo,mototopo,1
+573,mototopo,mototopo,1
+574,raccoltarifiuti,raccoltarifiuti,1
+575,lanciafino10mbianca,lanciafino10mbianca,1
+576,vaporettoactv,vaporettoactv,1
+577,water,water,1
+578,water,water,1
+579,water,water,1
+580,mototopo,polizia,0
+581,lanciafino10mbianca,lanciafino10mbianca,1
+582,alilaguna,alilaguna,1
+583,mototopo,mototopo,1
+584,water,water,1
+585,lanciafino10mbianca,lanciafino10mbianca,1
+586,patanella,patanella,1
+587,lanciafino10mmarrone,lanciafino10mmarrone,1
+588,water,water,1
+589,mototopo,mototopo,1
+590,vaporettoactv,vaporettoactv,1
+591,lanciafino10mbianca,mototopo,0
+592,alilaguna,motobarca,0
+593,motobarca,mototopo,0
+594,lanciafino10mmarrone,lanciafino10mmarrone,1
+595,mototopo,mototopo,1
+596,mototopo,mototopo,1
+597,patanella,ambulanza,0
+598,vaporettoactv,vaporettoactv,1
+599,lanciafino10mbianca,lanciafino10mbianca,1
+600,patanella,patanella,1
+601,ambulanza,ambulanza,1
+602,water,water,1
+603,lanciafino10mbianca,lanciafino10mbianca,1
+604,mototopo,mototopo,1
+605,mototopo,mototopo,1
+606,mototopo,mototopo,1
+607,ambulanza,ambulanza,1
+608,water,water,1
+609,lanciafino10mbianca,lanciafino10mbianca,1
+610,water,water,1
+611,lanciafino10mmarrone,lanciafino10mmarrone,1
+612,barchino,barchino,1
+613,barchino,barchino,1
+614,mototopo,mototopo,1
+615,mototopo,mototopo,1
+616,lanciafino10mbianca,lanciafino10mbianca,1
+617,water,water,1
+618,lanciafino10mbianca,lanciafino10mbianca,1
+619,water,lanciafino10mbianca,0
+620,vaporettoactv,vaporettoactv,1
+621,mototopo,mototopo,1
+622,mototopo,water,0
+623,vaporettoactv,vaporettoactv,1
+624,mototopo,mototopo,1
+625,mototopo,mototopo,1
+626,vaporettoactv,vaporettoactv,1
+627,patanella,patanella,1
+628,water,water,1
+629,lanciafino10mmarrone,lanciafino10mmarrone,1
+630,water,water,1
+631,raccoltarifiuti,motobarca,0
+632,lanciafino10mbianca,lanciafino10mbianca,1
+633,mototopo,mototopo,1
+634,mototopo,mototopo,1
+635,vaporettoactv,vaporettoactv,1
+636,lanciafino10mbianca,lanciafino10mbianca,1
+637,water,water,1
+638,lanciafino10mmarrone,lanciafino10mmarrone,1
+639,vaporettoactv,vaporettoactv,1
+640,mototopo,mototopo,1
+641,mototopo,mototopo,1
+642,mototopo,mototopo,1
+643,water,water,1
+644,vaporettoactv,vaporettoactv,1
+645,motobarca,mototopo,0
+646,lanciafino10mbianca,lanciafino10mbianca,1
+647,barchino,barchino,1
+648,mototopo,mototopo,1
+649,water,water,1
+650,mototopo,mototopo,1
+651,lanciafino10mmarrone,lanciafino10mmarrone,1
+652,raccoltarifiuti,raccoltarifiuti,1
+653,water,water,1
+654,mototopo,mototopo,1
+655,vaporettoactv,vaporettoactv,1
+656,alilaguna,alilaguna,1
+657,mototopo,mototopo,1
+658,water,water,1
+659,raccoltarifiuti,raccoltarifiuti,1
+660,lanciafino10mmarrone,lanciafino10mbianca,0
+661,mototopo,mototopo,1
+662,mototopo,mototopo,1
+663,lanciafino10mmarrone,lanciafino10mmarrone,1
+664,water,water,1
+665,mototopo,mototopo,1
+666,lanciafino10mbianca,lanciafino10mbianca,1
+667,vaporettoactv,vaporettoactv,1
+668,ambulanza,ambulanza,1
+669,mototopo,mototopo,1
+670,water,water,1
+671,lanciafino10mbianca,lanciafino10mbianca,1
+672,mototopo,motobarca,0
+673,lanciafino10mbianca,lanciafino10mbianca,1
+674,lanciafino10mbianca,lanciafino10mbianca,1
+675,mototopo,mototopo,1
+676,water,water,1
+677,motobarca,motobarca,1
+678,water,water,1
+679,vaporettoactv,vaporettoactv,1
+680,vaporettoactv,vaporettoactv,1
+681,water,water,1
+682,raccoltarifiuti,raccoltarifiuti,1
+683,raccoltarifiuti,raccoltarifiuti,1
+684,water,water,1
+685,water,water,1
+686,water,water,1
+687,water,water,1
+688,water,water,1
+689,water,water,1
+690,lanciafino10mbianca,lanciafino10mbianca,1
+691,water,water,1
+692,motobarca,mototopo,0
+693,raccoltarifiuti,raccoltarifiuti,1
+694,topa,topa,1
+695,vaporettoactv,vaporettoactv,1
+696,alilaguna,water,0
+697,vaporettoactv,vaporettoactv,1
+698,mototopo,mototopo,1
+699,mototopo,mototopo,1
+700,patanella,patanella,1
+701,water,water,1
+702,lanciafino10mmarrone,lanciafino10mmarrone,1
+703,lanciafino10mmarrone,lanciafino10mmarrone,1
+704,mototopo,mototopo,1
+705,motobarca,motobarca,1
+706,lanciafino10mmarrone,lanciafino10mmarrone,1
+707,lanciafino10mbianca,lanciafino10mbianca,1
+708,lanciafino10mbianca,lanciafino10mbianca,1
+709,vaporettoactv,vaporettoactv,1
+710,patanella,patanella,1
+711,mototopo,Gondola,0
+712,gondola,Gondola,0
+713,lanciafino10mbianca,lanciafino10mbianca,1
+714,lanciafino10mbianca,lanciafino10mbianca,1
+715,vaporettoactv,vaporettoactv,1
+716,water,water,1
+717,water,water,1
+718,patanella,patanella,1
+719,lanciafino10mbianca,lanciafino10mbianca,1
+720,vaporettoactv,vaporettoactv,1
+721,mototopo,mototopo,1
+722,raccoltarifiuti,raccoltarifiuti,1
+723,mototopo,motobarca,0
+724,motobarca,motobarca,1
+725,ambulanza,motobarca,0
+726,water,water,1
+727,water,water,1
+728,vaporettoactv,vaporettoactv,1
+729,vaporettoactv,vaporettoactv,1
+730,mototopo,mototopo,1
+731,lanciafino10mmarrone,lanciafino10mmarrone,1
+732,cacciapesca,lanciafino10mbianca,0
+733,cacciapesca,lanciafino10mbianca,0
+734,lanciafino10mbianca,lanciafino10mbianca,1
+735,patanella,patanella,1
+736,patanella,patanella,1
+737,mototopo,motobarca,0
+738,mototopo,mototopo,1
+739,water,water,1
+740,vaporettoactv,vaporettoactv,1
+741,raccoltarifiuti,raccoltarifiuti,1
+742,water,water,1
+743,mototopo,mototopo,1
+744,lanciafino10mbianca,lanciafino10mbianca,1
+745,polizia,polizia,1
+746,alilaguna,alilaguna,1
+747,lanciafino10mbianca,lanciafino10mbianca,1
+748,motobarca,mototopo,0
+749,topa,topa,1
+750,water,water,1
+751,patanella,patanella,1
+752,vaporettoactv,vaporettoactv,1
+753,lanciafino10mmarrone,lanciafino10mmarrone,1
+754,lanciafino10mmarrone,lanciafino10mmarrone,1
+755,lanciafino10mbianca,lanciafino10mbianca,1
+756,patanella,patanella,1
+757,vaporettoactv,vaporettoactv,1
+758,lanciafino10mmarrone,lanciafino10mmarrone,1
+759,lanciafino10mmarrone,lanciafino10mmarrone,1
+760,water,water,1
+761,lanciafino10mbianca,lanciafino10mbianca,1
+762,vaporettoactv,vaporettoactv,1
+763,mototopo,mototopo,1
+764,patanella,mototopo,0
+765,motobarca,lanciafino10mmarrone,0
+766,mototopo,mototopo,1
+767,water,water,1
+768,vaporettoactv,vaporettoactv,1
+769,vaporettoactv,vaporettoactv,1
+770,water,water,1
+771,vaporettoactv,vaporettoactv,1
+772,ambulanza,ambulanza,1
+773,mototopo,patanella,0
+774,mototopo,mototopo,1
+775,water,water,1
+776,vaporettoactv,vaporettoactv,1
+777,mototopo,mototopo,1
+778,alilaguna,alilaguna,1
+779,lanciafino10mbianca,lanciafino10mbianca,1
+780,motobarca,motobarca,1
+781,polizia,polizia,1
+782,lanciafino10mbianca,lanciafino10mbianca,1
+783,patanella,barchino,0
+784,patanella,barchino,0
+785,mototopo,mototopo,1
+786,lanciafino10mbianca,lanciafino10mbianca,1
+787,barchino,barchino,1
+788,water,water,1
+789,motobarca,motobarca,1
+790,vaporettoactv,vaporettoactv,1
+791,lanciafino10mmarrone,lanciafino10mmarrone,1
+792,water,water,1
+793,mototopo,mototopo,1
+794,raccoltarifiuti,raccoltarifiuti,1
+795,lanciafino10mbianca,lanciafino10mbianca,1
+796,topa,topa,1
+797,lanciafino10mbianca,lanciafino10mbianca,1
+798,mototopo,mototopo,1
+799,water,water,1
+800,lanciafino10mmarrone,lanciafino10mmarrone,1
+801,vaporettoactv,vaporettoactv,1
+802,vigilidelfuoco,motobarca,0
+803,water,water,1
+804,lanciafino10mbianca,lanciafino10mbianca,1
+805,lanciafino10mbianca,lanciafino10mbianca,1
+806,mototopo,mototopo,1
+807,water,water,1
+808,vaporettoactv,vaporettoactv,1
+809,vaporettoactv,vaporettoactv,1
+810,lanciafino10mbianca,lanciafino10mbianca,1
+811,mototopo,mototopo,1
+812,mototopo,mototopo,1
+813,mototopo,mototopo,1
+814,water,water,1
+815,vaporettoactv,vaporettoactv,1
+816,water,water,1
+817,water,water,1
+818,lanciafino10mbianca,lanciafino10mbianca,1
+819,lanciafino10mbianca,lanciafino10mbianca,1
+820,water,water,1
+821,lanciafino10mbianca,lanciafino10mbianca,1
+822,water,water,1
+823,lanciafino10mmarrone,lanciafino10mmarrone,1
+824,lanciafino10mmarrone,lanciafino10mmarrone,1
+825,lanciafino10mmarrone,lanciafino10mmarrone,1
+826,mototopo,mototopo,1
+827,water,water,1
+828,vaporettoactv,vaporettoactv,1
+829,water,water,1
+830,water,water,1
+831,vaporettoactv,vaporettoactv,1
+832,water,water,1
+833,ambulanza,ambulanza,1
+834,water,water,1
+835,patanella,barchino,0
+836,patanella,barchino,0
+837,patanella,patanella,1
+838,water,water,1
+839,vaporettoactv,vaporettoactv,1
+840,vaporettoactv,vaporettoactv,1
+841,mototopo,mototopo,1
+842,water,water,1
+843,mototopo,mototopo,1
+844,lanciafino10mbianca,lanciafino10mbianca,1
+845,mototopo,mototopo,1
+846,motobarca,motobarca,1
+847,vaporettoactv,vaporettoactv,1
+848,patanella,patanella,1
+849,ambulanza,ambulanza,1
+850,mototopo,mototopo,1
+851,water,water,1
+852,mototopo,mototopo,1
+853,water,water,1
+854,vaporettoactv,vaporettoactv,1
+855,polizia,polizia,1
+856,polizia,polizia,1
+857,lanciafino10mbianca,lanciafino10mbianca,1
+858,lanciafino10mbianca,lanciafino10mbianca,1
+859,cacciapesca,barchino,0
+860,lanciafino10mbianca,lanciafino10mbianca,1
+861,water,water,1
+862,vaporettoactv,vaporettoactv,1
+863,lanciafino10mmarrone,lanciafino10mmarrone,1
+864,mototopo,mototopo,1
+865,vaporettoactv,vaporettoactv,1
+866,water,water,1
+867,water,water,1
+868,water,water,1
+869,lanciafino10mbianca,lanciafino10mbianca,1
+870,lanciafino10mbianca,lanciafino10mbianca,1
+871,motobarca,motobarca,1
+872,mototopo,mototopo,1
+873,patanella,patanella,1
+874,water,water,1
+875,alilaguna,alilaguna,1
+876,lanciafino10mbianca,lanciafino10mbianca,1
+877,water,water,1
+878,vaporettoactv,vaporettoactv,1
+879,vaporettoactv,vaporettoactv,1
+880,motobarca,motobarca,1
+881,lanciafino10mbianca,lanciafino10mbianca,1
+882,lanciafino10mbianca,lanciafino10mbianca,1
+883,mototopo,mototopo,1
+884,water,water,1
+885,mototopo,mototopo,1
+886,water,water,1
+887,vaporettoactv,vaporettoactv,1
+888,lanciafino10mbianca,lanciafino10mbianca,1
+889,vaporettoactv,vaporettoactv,1
+890,vaporettoactv,vaporettoactv,1
+891,vaporettoactv,vaporettoactv,1
+892,water,water,1
+893,water,water,1
+894,water,water,1
+895,vaporettoactv,vaporettoactv,1
+896,water,water,1
+897,barchino,motobarca,0
+898,water,water,1
+899,vaporettoactv,vaporettoactv,1
+900,barchino,topa,0
+901,vaporettoactv,vaporettoactv,1
+902,mototopo,mototopo,1
+903,lanciafino10mmarrone,lanciafino10mmarrone,1
+904,lanciafino10mmarrone,lanciafino10mmarrone,1
+905,motobarca,motobarca,1
+906,vaporettoactv,vaporettoactv,1
+907,barchino,barchino,1
+908,patanella,barchino,0
+909,lanciafino10mmarrone,lanciafino10mmarrone,1
+910,water,water,1
+911,mototopo,mototopo,1
+912,water,water,1
+913,lanciafino10mmarrone,lanciafino10mmarrone,1
+914,water,water,1
+915,mototopo,mototopo,1
+916,vaporettoactv,vaporettoactv,1
+917,patanella,patanella,1
+918,water,water,1
+919,water,water,1
+920,ambulanza,ambulanza,1
+921,water,water,1
+922,lanciafino10mbianca,lanciafino10mbianca,1
+923,water,water,1
+924,mototopo,mototopo,1
+925,mototopo,mototopo,1
+926,water,water,1
+927,mototopo,mototopo,1
+928,lanciafino10mbianca,lanciafino10mbianca,1
+929,barchino,water,0
+930,barchino,barchino,1
+931,ambulanza,mototopo,0
+932,mototopo,mototopo,1
+933,vaporettoactv,vaporettoactv,1
+934,lanciafino10mmarrone,lanciafino10mmarrone,1
+935,vaporettoactv,vaporettoactv,1
+936,vaporettoactv,vaporettoactv,1
+937,water,water,1
+938,lanciafino10mbianca,lanciafino10mbianca,1
+939,patanella,topa,0
+940,lanciafino10mmarrone,lanciafino10mmarrone,1
+941,patanella,lanciafino10mmarrone,0
+942,mototopo,mototopo,1
+943,lanciafino10mbianca,lanciafino10mbianca,1
+944,motopontonerettangolare,motopontonerettangolare,1
+945,vaporettoactv,vaporettoactv,1
+946,water,water,1
+947,mototopo,mototopo,1
+948,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+949,water,water,1
+950,barchino,topa,0
+951,lanciafino10mbianca,lanciafino10mbianca,1
+952,patanella,barchino,0
+953,lanciafino10mbianca,lanciafino10mbianca,1
+954,vaporettoactv,vaporettoactv,1
+955,water,water,1
+956,vaporettoactv,vaporettoactv,1
+957,patanella,patanella,1
+958,barchino,water,0
+959,lanciafino10mbianca,lanciafino10mbianca,1
+960,vaporettoactv,vaporettoactv,1
+961,water,water,1
+962,water,water,1
+963,topa,barchino,0
+964,vaporettoactv,vaporettoactv,1
+965,water,water,1
+966,lanciafino10mbianca,lanciafino10mbianca,1
+967,water,water,1
+968,vaporettoactv,vaporettoactv,1
+969,water,water,1
+970,cacciapesca,barchino,0
+971,barchino,barchino,1
+972,barchino,barchino,1
+973,vaporettoactv,vaporettoactv,1
+974,water,water,1
+975,water,water,1
+976,mototopo,mototopo,1
+977,water,water,1
+978,motobarca,lanciafino10mmarrone,0
+979,water,water,1
+980,barchino,barchino,1
+981,water,water,1
+982,lanciafino10mbianca,lanciafino10mbianca,1
+983,lanciafino10mbianca,lanciafino10mbianca,1
+984,vigilidelfuoco,motobarca,0
+985,water,water,1
+986,vaporettoactv,vaporettoactv,1
+987,vaporettoactv,vaporettoactv,1
+988,lanciafino10mbianca,lanciafino10mbianca,1
+989,water,water,1
+990,polizia,lanciafino10mbianca,0
+991,water,water,1
+992,barchino,barchino,1
+993,water,water,1
+994,vaporettoactv,vaporettoactv,1
+995,polizia,lanciafino10mbianca,0
+996,polizia,lanciafino10mbianca,0
+997,vaporettoactv,vaporettoactv,1
+998,lanciafino10mbianca,lanciafino10mbianca,1
+999,water,water,1
+1000,lanciafino10mbianca,lanciafino10mbianca,1
+1001,vaporettoactv,vaporettoactv,1
+1002,sandoloaremi,sandoloaremi,1
+1003,water,water,1
+1004,topa,topa,1
+1005,water,water,1
+1006,vaporettoactv,vaporettoactv,1
+1007,lanciafino10mbianca,polizia,0
+1008,lanciafino10mbianca,lanciafino10mbianca,1
+1009,vaporettoactv,vaporettoactv,1
+1010,lanciafino10mbianca,lanciafino10mbianca,1
+1011,water,water,1
+1012,vaporettoactv,vaporettoactv,1
+1013,lanciafino10mbianca,lanciafino10mbianca,1
+1014,mototopo,mototopo,1
+1015,lanciafino10mmarrone,lanciafino10mmarrone,1
+1016,water,water,1
+1017,lanciafino10mbianca,lanciafino10mbianca,1
+1018,water,water,1
+1019,lanciafino10mbianca,lanciafino10mbianca,1
+1020,vaporettoactv,vaporettoactv,1
+1021,vaporettoactv,vaporettoactv,1
+1022,water,water,1
+1023,topa,topa,1
+1024,topa,barchino,0
+1025,lanciafino10mbianca,lanciafino10mbianca,1
+1026,lanciafino10mbianca,lanciafino10mbianca,1
+1027,patanella,patanella,1
+1028,water,water,1
+1029,alilaguna,alilaguna,1
+1030,vaporettoactv,vaporettoactv,1
+1031,lanciafino10mbianca,lanciafino10mbianca,1
+1032,water,water,1
+1033,lanciafino10mbianca,lanciafino10mbianca,1
+1034,water,water,1
+1035,lanciafino10mmarrone,lanciafino10mmarrone,1
+1036,water,water,1
+1037,water,water,1
+1038,lanciafino10mbianca,lanciafino10mbianca,1
+1039,mototopo,mototopo,1
+1040,vaporettoactv,vaporettoactv,1
+1041,water,water,1
+1042,motobarca,motobarca,1
+1043,motobarca,motobarca,1
+1044,lanciafino10mbianca,lanciafino10mbianca,1
+1045,water,water,1
+1046,alilaguna,alilaguna,1
+1047,patanella,barchino,0
+1048,water,water,1
+1049,mototopo,mototopo,1
+1050,water,water,1
+1051,mototopo,mototopo,1
+1052,lanciafino10mmarrone,lanciafino10mmarrone,1
+1053,lanciafino10mmarrone,lanciafino10mmarrone,1
+1054,raccoltarifiuti,motobarca,0
+1055,lanciafino10mbianca,lanciafino10mbianca,1
+1056,water,water,1
+1057,vaporettoactv,vaporettoactv,1
+1058,vaporettoactv,vaporettoactv,1
+1059,vaporettoactv,vaporettoactv,1
+1060,lanciafino10mbianca,lanciafino10mbianca,1
+1061,water,water,1
+1062,patanella,mototopo,0
+1063,vaporettoactv,vaporettoactv,1
+1064,vaporettoactv,vaporettoactv,1
+1065,lanciafino10mbianca,lanciafino10mbianca,1
+1066,water,water,1
+1067,mototopo,mototopo,1
+1068,lanciafino10mmarrone,lanciafino10mmarrone,1
+1069,water,water,1
+1070,ambulanza,ambulanza,1
+1071,lanciafino10mmarrone,lanciafino10mmarrone,1
+1072,lanciafino10mmarrone,lanciafino10mmarrone,1
+1073,lanciafino10mmarrone,lanciafino10mmarrone,1
+1074,mototopo,mototopo,1
+1075,mototopo,mototopo,1
+1076,water,water,1
+1077,vaporettoactv,vaporettoactv,1
+1078,lanciafino10mmarrone,lanciafino10mmarrone,1
+1079,vaporettoactv,vaporettoactv,1
+1080,mototopo,mototopo,1
+1081,lanciafino10mbianca,lanciafino10mbianca,1
+1082,water,water,1
+1083,lanciafino10mbianca,lanciafino10mbianca,1
+1084,mototopo,mototopo,1
+1085,vaporettoactv,vaporettoactv,1
+1086,water,water,1
+1087,water,water,1
+1088,mototopo,mototopo,1
+1089,mototopo,mototopo,1
+1090,mototopo,mototopo,1
+1091,lanciafino10mbianca,lanciafino10mbianca,1
+1092,patanella,patanella,1
+1093,water,water,1
+1094,vaporettoactv,vaporettoactv,1
+1095,lanciafino10mmarrone,lanciafino10mmarrone,1
+1096,lanciafino10mmarrone,lanciafino10mmarrone,1
+1097,patanella,patanella,1
+1098,mototopo,mototopo,1
+1099,mototopo,mototopo,1
+1100,motobarca,polizia,0
+1101,water,water,1
+1102,vaporettoactv,vaporettoactv,1
+1103,vaporettoactv,vaporettoactv,1
+1104,alilaguna,alilaguna,1
+1105,vaporettoactv,vaporettoactv,1
+1106,vaporettoactv,vaporettoactv,1
+1107,water,water,1
+1108,lanciafino10mbianca,lanciafino10mbianca,1
+1109,water,water,1
+1110,vaporettoactv,vaporettoactv,1
+1111,vaporettoactv,vaporettoactv,1
+1112,water,water,1
+1113,alilaguna,alilaguna,1
+1114,mototopo,mototopo,1
+1115,water,water,1
+1116,polizia,topa,0
+1117,motobarca,water,0
+1118,mototopo,motobarca,0
+1119,motobarca,motobarca,1
+1120,water,water,1
+1121,mototopo,mototopo,1
+1122,mototopo,mototopo,1
+1123,patanella,patanella,1
+1124,water,water,1
+1125,patanella,patanella,1
+1126,motobarca,water,0
+1127,topa,barchino,0
+1128,water,water,1
+1129,mototopo,mototopo,1
+1130,mototopo,mototopo,1
+1131,water,water,1
+1132,barchino,patanella,0
+1133,vaporettoactv,vaporettoactv,1
+1134,lanciafino10mmarrone,lanciafino10mmarrone,1
+1135,mototopo,motobarca,0
+1136,sanpierota,water,0
+1137,vaporettoactv,vaporettoactv,1
+1138,vaporettoactv,vaporettoactv,1
+1139,vaporettoactv,vaporettoactv,1
+1140,vaporettoactv,vaporettoactv,1
+1141,water,water,1
+1142,lanciafino10mmarrone,patanella,0
+1143,water,water,1
+1144,water,water,1
+1145,vaporettoactv,vaporettoactv,1
+1146,mototopo,mototopo,1
+1147,mototopo,mototopo,1
+1148,lanciafino10mmarrone,lanciafino10mmarrone,1
+1149,water,water,1
+1150,topa,mototopo,0
+1151,water,water,1
+1152,vaporettoactv,vaporettoactv,1
+1153,lanciafino10mbianca,lanciafino10mbianca,1
+1154,water,water,1
+1155,water,water,1
+1156,lanciafino10mmarrone,patanella,0
+1157,vaporettoactv,vaporettoactv,1
+1158,vaporettoactv,vaporettoactv,1
+1159,mototopo,mototopo,1
+1160,vaporettoactv,vaporettoactv,1
+1161,water,water,1
+1162,vaporettoactv,vaporettoactv,1
+1163,lanciafino10mbianca,lanciafino10mbianca,1
+1164,lanciafino10mmarrone,lanciafino10mmarrone,1
+1165,lanciafino10mbianca,lanciafino10mbianca,1
+1166,lanciafino10mbianca,lanciafino10mbianca,1
+1167,lanciafino10mbianca,lanciafino10mbianca,1
+1168,water,water,1
+1169,water,water,1
+1170,lanciafino10mmarrone,lanciafino10mmarrone,1
+1171,water,water,1
+1172,vaporettoactv,vaporettoactv,1
+1173,water,water,1
+1174,alilaguna,alilaguna,1
+1175,patanella,lanciafino10mmarrone,0
+1176,water,water,1
+1177,water,water,1
+1178,mototopo,mototopo,1
+1179,vaporettoactv,vaporettoactv,1
+1180,patanella,patanella,1
+1181,water,water,1
+1182,water,water,1
+1183,barchino,barchino,1
+1184,vaporettoactv,vaporettoactv,1
+1185,vaporettoactv,vaporettoactv,1
+1186,water,water,1
+1187,water,water,1
+1188,lanciafino10mbianca,lanciafino10mbianca,1
+1189,vaporettoactv,vaporettoactv,1
+1190,topa,topa,1
+1191,mototopo,mototopo,1
+1192,water,water,1
+1193,lanciafino10mmarrone,lanciafino10mmarrone,1
+1194,lanciafino10mmarrone,lanciafino10mmarrone,1
+1195,vaporettoactv,vaporettoactv,1
+1196,vaporettoactv,vaporettoactv,1
+1197,mototopo,mototopo,1
+1198,water,water,1
+1199,mototopo,mototopo,1
+1200,vaporettoactv,vaporettoactv,1
+1201,vaporettoactv,vaporettoactv,1
+1202,lanciafino10mbianca,lanciafino10mbianca,1
+1203,lanciafino10mbianca,lanciafino10mbianca,1
+1204,water,water,1
+1205,lanciafino10mbianca,lanciafino10mbianca,1
+1206,patanella,patanella,1
+1207,water,water,1
+1208,ambulanza,ambulanza,1
+1209,vaporettoactv,vaporettoactv,1
+1210,vaporettoactv,vaporettoactv,1
+1211,lanciafino10mbianca,lanciafino10mbianca,1
+1212,lanciafino10mbianca,lanciafino10mbianca,1
+1213,patanella,patanella,1
+1214,water,water,1
+1215,lanciafino10mmarrone,lanciafino10mmarrone,1
+1216,water,water,1
+1217,vaporettoactv,vaporettoactv,1
+1218,lanciafino10mbianca,lanciafino10mbianca,1
+1219,vaporettoactv,vaporettoactv,1
+1220,lanciafino10mbianca,lanciafino10mbianca,1
+1221,lanciafino10mbianca,lanciafino10mbianca,1
+1222,lanciafino10mbianca,lanciafino10mbianca,1
+1223,water,water,1
+1224,lanciafino10mbianca,polizia,0
+1225,mototopo,mototopo,1
+1226,water,water,1
+1227,water,water,1
+1228,patanella,water,0
+1229,mototopo,mototopo,1
+1230,vaporettoactv,vaporettoactv,1
+1231,vaporettoactv,vaporettoactv,1
+1232,vaporettoactv,vaporettoactv,1
+1233,mototopo,mototopo,1
+1234,water,water,1
+1235,vaporettoactv,vaporettoactv,1
+1236,mototopo,mototopo,1
+1237,water,water,1
+1238,vaporettoactv,vaporettoactv,1
+1239,vaporettoactv,vaporettoactv,1
+1240,water,water,1
+1241,topa,topa,1
+1242,alilaguna,alilaguna,1
+1243,vaporettoactv,vaporettoactv,1
+1244,sandoloaremi,topa,0
+1245,topa,topa,1
+1246,lanciafino10mmarrone,lanciafino10mmarrone,1
+1247,lanciafino10mmarrone,lanciafino10mmarrone,1
+1248,barchino,water,0
+1249,mototopo,mototopo,1
+1250,water,water,1
+1251,water,water,1
+1252,vaporettoactv,vaporettoactv,1
+1253,water,water,1
+1254,water,water,1
+1255,vaporettoactv,vaporettoactv,1
+1256,water,water,1
+1257,patanella,lanciafino10mmarrone,0
+1258,alilaguna,alilaguna,1
+1259,vaporettoactv,water,0
+1260,water,water,1
+1261,vaporettoactv,vaporettoactv,1
+1262,water,water,1
+1263,water,water,1
+1264,mototopo,mototopo,1
+1265,water,water,1
+1266,lanciafino10mbianca,lanciafino10mbianca,1
+1267,vaporettoactv,vaporettoactv,1
+1268,vaporettoactv,vaporettoactv,1
+1269,lanciafino10mmarrone,lanciafino10mmarrone,1
+1270,vaporettoactv,vaporettoactv,1
+1271,water,water,1
+1272,lanciafino10mbianca,lanciafino10mbianca,1
+1273,lanciafino10mbianca,lanciafino10mbianca,1
+1274,motobarca,motobarca,1
+1275,barchino,barchino,1
+1276,water,water,1
+1277,mototopo,mototopo,1
+1278,water,water,1
+1279,vaporettoactv,vaporettoactv,1
+1280,vaporettoactv,vaporettoactv,1
+1281,water,water,1
+1282,lanciafino10mmarrone,lanciafino10mmarrone,1
+1283,water,water,1
+1284,water,water,1
+1285,vaporettoactv,vaporettoactv,1
+1286,vaporettoactv,vaporettoactv,1
+1287,mototopo,mototopo,1
+1288,water,water,1
+1289,lanciafino10mbianca,lanciafino10mbianca,1
+1290,water,water,1
+1291,vaporettoactv,vaporettoactv,1
+1292,lanciafino10mmarrone,lanciafino10mmarrone,1
+1293,vaporettoactv,vaporettoactv,1
+1294,water,water,1
+1295,vaporettoactv,vaporettoactv,1
+1296,vaporettoactv,vaporettoactv,1
+1297,lanciafino10mbianca,lanciafino10mbianca,1
+1298,water,water,1
+1299,motobarca,motobarca,1
+1300,water,motobarca,0
+1301,vaporettoactv,vaporettoactv,1
+1302,lanciafino10mmarrone,lanciafino10mmarrone,1
+1303,motobarca,lanciafino10mmarrone,0
+1304,vaporettoactv,vaporettoactv,1
+1305,vaporettoactv,vaporettoactv,1
+1306,alilaguna,alilaguna,1
+1307,water,water,1
+1308,lanciafino10mmarrone,lanciafino10mmarrone,1
+1309,lanciafino10mmarrone,lanciafino10mmarrone,1
+1310,lanciafino10mbianca,lanciafino10mbianca,1
+1311,lanciafino10mbianca,lanciafino10mbianca,1
+1312,vaporettoactv,vaporettoactv,1
+1313,vaporettoactv,vaporettoactv,1
+1314,vaporettoactv,vaporettoactv,1
+1315,water,water,1
+1316,lanciafino10mbianca,mototopo,0
+1317,motobarca,motopontonerettangolare,0
+1318,water,water,1
+1319,lanciafino10mbianca,lanciafino10mbianca,1
+1320,lanciafino10mmarrone,lanciafino10mmarrone,1
+1321,mototopo,mototopo,1
+1322,vaporettoactv,vaporettoactv,1
+1323,water,water,1
+1324,topa,topa,1
+1325,barchino,water,0
+1326,lanciafino10mmarrone,lanciafino10mmarrone,1
+1327,vaporettoactv,vaporettoactv,1
+1328,water,water,1
+1329,vaporettoactv,vaporettoactv,1
+1330,lanciafino10mbianca,lanciafino10mbianca,1
+1331,lanciafino10mbianca,lanciafino10mbianca,1
+1332,lanciafino10mbianca,lanciafino10mmarrone,0
+1333,lanciafino10mbianca,lanciafino10mbianca,1
+1334,vaporettoactv,vaporettoactv,1
+1335,gondola,Gondola,0
+1336,water,water,1
+1337,topa,mototopo,0
+1338,water,water,1
+1339,barchino,barchino,1
+1340,mototopo,mototopo,1
+1341,vaporettoactv,vaporettoactv,1
+1342,patanella,patanella,1
+1343,water,water,1
+1344,vaporettoactv,vaporettoactv,1
+1345,water,water,1
+1346,mototopo,mototopo,1
+1347,patanella,patanella,1
+1348,mototopo,mototopo,1
+1349,mototopo,mototopo,1
+1350,water,water,1
+1351,lanciafino10mmarrone,lanciafino10mmarrone,1
+1352,lanciafino10mmarrone,lanciafino10mmarrone,1
+1353,motobarca,lanciafino10mbianca,0
+1354,vaporettoactv,vaporettoactv,1
+1355,vaporettoactv,vaporettoactv,1
+1356,cacciapesca,lanciafino10mbianca,0
+1357,water,water,1
+1358,water,water,1
+1359,water,water,1
+1360,lanciafino10mmarrone,lanciafino10mmarrone,1
+1361,water,water,1
+1362,lanciafino10mmarrone,lanciafino10mmarrone,1
+1363,vaporettoactv,vaporettoactv,1
+1364,vaporettoactv,vaporettoactv,1
+1365,lanciafino10mbianca,lanciafino10mbianca,1
+1366,lanciafino10mbianca,lanciafino10mbianca,1
+1367,water,water,1
+1368,vaporettoactv,vaporettoactv,1
+1369,lanciafino10mbianca,lanciafino10mbianca,1
+1370,topa,topa,1
+1371,patanella,patanella,1
+1372,barchino,patanella,0
+1373,lanciafino10mbianca,lanciafino10mbianca,1
+1374,lanciafino10mbianca,lanciafino10mbianca,1
+1375,water,water,1
+1376,lanciafino10mmarrone,lanciafino10mmarrone,1
+1377,vaporettoactv,vaporettoactv,1
+1378,lanciafino10mmarrone,lanciafino10mmarrone,1
+1379,water,water,1
+1380,vaporettoactv,vaporettoactv,1
+1381,water,topa,0
+1382,water,topa,0
+1383,barchino,barchino,1
+1384,vaporettoactv,vaporettoactv,1
+1385,ambulanza,ambulanza,1
+1386,mototopo,mototopo,1
+1387,vaporettoactv,vaporettoactv,1
+1388,lanciafino10mbianca,lanciafino10mbianca,1
+1389,mototopo,mototopo,1
+1390,lanciafino10mbianca,lanciafino10mbianca,1
+1391,mototopo,mototopo,1
+1392,patanella,topa,0
+1393,topa,mototopo,0
+1394,mototopo,mototopo,1
+1395,water,water,1
+1396,topa,patanella,0
+1397,water,water,1
+1398,vaporettoactv,vaporettoactv,1
+1399,water,water,1
+1400,water,water,1
+1401,lanciafino10mbianca,lanciafino10mbianca,1
+1402,lanciafino10mbianca,lanciafino10mbianca,1
+1403,lanciafino10mbianca,lanciafino10mbianca,1
+1404,barchino,barchino,1
+1405,mototopo,ambulanza,0
+1406,barchino,motobarca,0
+1407,topa,sandoloaremi,0
+1408,topa,sandoloaremi,0
+1409,vaporettoactv,vaporettoactv,1
+1410,vaporettoactv,vaporettoactv,1
+1411,lanciafino10mbianca,lanciafino10mbianca,1
+1412,water,water,1
+1413,vaporettoactv,vaporettoactv,1
+1414,water,water,1
+1415,vaporettoactv,vaporettoactv,1
+1416,water,water,1
+1417,lanciafino10mbianca,water,0
+1418,lanciafino10mbianca,lanciafino10mbianca,1
+1419,barchino,lanciafino10mbianca,0
+1420,lanciafino10mmarrone,lanciafino10mmarrone,1
+1421,vaporettoactv,vaporettoactv,1
+1422,water,water,1
+1423,barchino,barchino,1
+1424,lanciafino10mbianca,lanciafino10mbianca,1
+1425,lanciafino10mbianca,lanciafino10mbianca,1
+1426,vaporettoactv,vaporettoactv,1
+1427,motobarca,motobarca,1
+1428,lanciafino10mbianca,lanciafino10mbianca,1
+1429,water,water,1
+1430,lanciafino10mmarrone,lanciafino10mmarrone,1
+1431,water,water,1
+1432,mototopo,mototopo,1
+1433,water,water,1
+1434,vaporettoactv,vaporettoactv,1
+1435,lanciafino10mbianca,lanciafino10mbianca,1
+1436,lanciafino10mmarrone,lanciafino10mmarrone,1
+1437,water,water,1
+1438,water,water,1
+1439,vaporettoactv,vaporettoactv,1
+1440,mototopo,mototopo,1
+1441,water,water,1
+1442,mototopo,mototopo,1
+1443,vaporettoactv,vaporettoactv,1
+1444,lanciafino10mmarrone,lanciafino10mmarrone,1
+1445,cacciapesca,barchino,0
+1446,water,water,1
+1447,vaporettoactv,vaporettoactv,1
+1448,lanciafino10mmarrone,lanciafino10mmarrone,1
+1449,lanciafino10mmarrone,lanciafino10mmarrone,1
+1450,lanciafino10mmarrone,lanciafino10mmarrone,1
+1451,vaporettoactv,vaporettoactv,1
+1452,barchino,barchino,1
+1453,water,lanciafino10mbianca,0
+1454,topa,mototopo,0
+1455,water,water,1
+1456,lanciafino10mmarrone,lanciafino10mmarrone,1
+1457,mototopo,mototopo,1
+1458,vaporettoactv,vaporettoactv,1
+1459,water,water,1
+1460,barchino,patanella,0
+1461,lanciafino10mmarrone,lanciafino10mmarrone,1
+1462,water,water,1
+1463,lanciafino10mbianca,lanciafino10mmarrone,0
+1464,lanciafino10mmarrone,lanciafino10mmarrone,1
+1465,water,water,1
+1466,water,water,1
+1467,vaporettoactv,vaporettoactv,1
+1468,vaporettoactv,vaporettoactv,1
+1469,motobarca,motobarca,1
+1470,motobarca,motobarca,1
+1471,motobarca,motobarca,1
+1472,motobarca,mototopo,0
+1473,mototopo,mototopo,1
+1474,water,water,1
+1475,vaporettoactv,vaporettoactv,1
+1476,vaporettoactv,vaporettoactv,1
+1477,water,water,1
+1478,ambulanza,vaporettoactv,0
+1479,water,water,1
+1480,sanpierota,barchino,0
+1481,topa,barchino,0
+1482,water,water,1
+1483,ambulanza,ambulanza,1
+1484,sanpierota,barchino,0
+1485,water,water,1
+1486,vaporettoactv,vaporettoactv,1
+1487,water,water,1
+1488,alilaguna,alilaguna,1
+1489,vaporettoactv,vaporettoactv,1
+1490,lanciafino10mbianca,lanciafino10mbianca,1
+1491,topa,mototopo,0
+1492,mototopo,mototopo,1
+1493,cacciapesca,lanciafino10mbianca,0
+1494,vaporettoactv,vaporettoactv,1
+1495,water,water,1
+1496,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+1497,patanella,barchino,0
+1498,vaporettoactv,vaporettoactv,1
+1499,lanciafino10mmarrone,lanciafino10mmarrone,1
+1500,lanciafino10mmarrone,lanciafino10mmarrone,1
+1501,vaporettoactv,vaporettoactv,1
+1502,polizia,barchino,0
+1503,water,water,1
+1504,water,water,1
+1505,motobarca,alilaguna,0
+1506,vaporettoactv,vaporettoactv,1
+1507,lanciafino10mmarrone,lanciafino10mmarrone,1
+1508,vaporettoactv,vaporettoactv,1
+1509,lanciafino10mbianca,lanciafino10mbianca,1
+1510,lanciafino10mmarrone,lanciafino10mmarrone,1
+1511,lanciafino10mmarrone,lanciafino10mmarrone,1
+1512,water,water,1
+1513,lanciafino10mbianca,lanciafino10mbianca,1
+1514,patanella,water,0
+1515,barchino,water,0
+1516,vaporettoactv,vaporettoactv,1
+1517,vaporettoactv,vaporettoactv,1
+1518,water,water,1
+1519,vaporettoactv,vaporettoactv,1
+1520,water,water,1
+1521,patanella,barchino,0
+1522,water,water,1
+1523,lanciafino10mbianca,lanciafino10mbianca,1
+1524,lanciafino10mbianca,lanciamaggioredi10mbianca,0
+1525,polizia,lanciafino10mbianca,0
+1526,lanciafino10mbianca,lanciafino10mbianca,1
+1527,water,water,1
+1528,mototopo,mototopo,1
+1529,cacciapesca,barchino,0
+1530,motobarca,motobarca,1
+1531,vaporettoactv,vaporettoactv,1
+1532,water,water,1
+1533,lanciafino10mmarrone,lanciafino10mmarrone,1
+1534,water,water,1
+1535,vaporettoactv,vaporettoactv,1
+1536,water,water,1
+1537,patanella,patanella,1
+1538,patanella,patanella,1
+1539,vaporettoactv,vaporettoactv,1
+1540,vaporettoactv,vaporettoactv,1
+1541,mototopo,mototopo,1
+1542,water,water,1
+1543,vaporettoactv,vaporettoactv,1
+1544,motobarca,ambulanza,0
+1545,lanciafino10mmarrone,lanciafino10mmarrone,1
+1546,water,water,1
+1547,mototopo,mototopo,1
+1548,mototopo,mototopo,1
+1549,lanciafino10mmarrone,water,0
+1550,lanciafino10mbianca,lanciafino10mbianca,1
+1551,water,water,1
+1552,mototopo,mototopo,1
+1553,vaporettoactv,vaporettoactv,1
+1554,vaporettoactv,vaporettoactv,1
+1555,water,water,1
+1556,lanciafino10mbianca,lanciafino10mbianca,1
+1557,water,water,1
+1558,mototopo,mototopo,1
+1559,lanciafino10mmarrone,lanciafino10mmarrone,1
+1560,lanciafino10mmarrone,lanciafino10mmarrone,1
+1561,motobarca,motobarca,1
+1562,lanciafino10mbianca,lanciafino10mbianca,1
+1563,vaporettoactv,vaporettoactv,1
+1564,vaporettoactv,vaporettoactv,1
+1565,lanciafino10mmarrone,lanciafino10mmarrone,1
+1566,lanciafino10mmarrone,lanciafino10mmarrone,1
+1567,lanciafino10mmarrone,lanciafino10mmarrone,1
+1568,vaporettoactv,vaporettoactv,1
+1569,water,water,1
+1570,vaporettoactv,vaporettoactv,1
+1571,vaporettoactv,vaporettoactv,1
+1572,patanella,patanella,1
+1573,water,water,1
+1574,mototopo,mototopo,1
+1575,motobarca,water,0
+1576,mototopo,mototopo,1
+1577,vaporettoactv,vaporettoactv,1
+1578,raccoltarifiuti,raccoltarifiuti,1
+1579,patanella,patanella,1
+1580,water,water,1
+1581,lanciafino10mmarrone,lanciafino10mmarrone,1
+1582,vigilidelfuoco,ambulanza,0
+1583,water,water,1
+1584,patanella,patanella,1
+1585,water,water,1
+1586,vaporettoactv,vaporettoactv,1
+1587,vaporettoactv,vaporettoactv,1
+1588,lanciafino10mmarrone,lanciafino10mmarrone,1
+1589,lanciafino10mmarrone,lanciafino10mmarrone,1
+1590,vaporettoactv,vaporettoactv,1
+1591,polizia,polizia,1
+1592,vaporettoactv,vaporettoactv,1
+1593,lanciafino10mmarrone,lanciafino10mmarrone,1
+1594,water,water,1
+1595,topa,barchino,0
+1596,water,water,1
+1597,water,water,1
+1598,lanciafino10mbianca,lanciafino10mbianca,1
+1599,vaporettoactv,vaporettoactv,1
+1600,water,water,1
+1601,water,water,1
+1602,vaporettoactv,vaporettoactv,1
+1603,water,water,1
+1604,lanciafino10mmarrone,lanciafino10mmarrone,1
+1605,water,water,1
+1606,vaporettoactv,vaporettoactv,1
+1607,water,water,1
+1608,patanella,lanciafino10mbianca,0
+1609,lanciafino10mbianca,lanciafino10mbianca,1
+1610,lanciafino10mbianca,lanciafino10mbianca,1
+1611,vaporettoactv,vaporettoactv,1
+1612,vaporettoactv,vaporettoactv,1
+1613,lanciafino10mbianca,lanciafino10mbianca,1
+1614,water,water,1
+1615,lanciafino10mbianca,lanciafino10mbianca,1
+1616,water,water,1
+1617,lanciafino10mmarrone,lanciafino10mmarrone,1
+1618,lanciafino10mmarrone,lanciafino10mmarrone,1
+1619,mototopo,mototopo,1
+1620,vaporettoactv,vaporettoactv,1
+1621,water,water,1
+1622,water,water,1
+1623,vaporettoactv,vaporettoactv,1
+1624,water,water,1
+1625,vaporettoactv,vaporettoactv,1
+1626,vaporettoactv,vaporettoactv,1
+1627,vaporettoactv,vaporettoactv,1
+1628,patanella,lanciafino10mmarrone,0
+1629,lanciafino10mmarrone,lanciafino10mmarrone,1
+1630,mototopo,mototopo,1
+1631,water,water,1
+1632,water,water,1
+1633,lanciafino10mbianca,lanciafino10mbianca,1
+1634,mototopo,mototopo,1
+1635,water,water,1
+1636,lanciafino10mmarrone,lanciafino10mmarrone,1
+1637,vaporettoactv,vaporettoactv,1
+1638,water,water,1
+1639,lanciafino10mbianca,lanciafino10mbianca,1
+1640,lanciafino10mbianca,lanciafino10mbianca,1
+1641,water,water,1
+1642,mototopo,mototopo,1
+1643,lanciafino10mbianca,lanciafino10mbianca,1
+1644,water,water,1
+1645,vaporettoactv,vaporettoactv,1
+1646,water,water,1
+1647,vaporettoactv,vaporettoactv,1
+1648,water,water,1
+1649,patanella,lanciafino10mmarrone,0
+1650,lanciafino10mbianca,lanciafino10mbianca,1
+1651,water,water,1
+1652,vaporettoactv,vaporettoactv,1
+1653,water,water,1
+1654,vaporettoactv,vaporettoactv,1
+1655,patanella,patanella,1
+1656,lanciafino10mbianca,lanciafino10mbianca,1
+1657,lanciafino10mbianca,lanciafino10mbianca,1
+1658,vaporettoactv,vaporettoactv,1
+1659,lanciafino10mmarrone,lanciafino10mmarrone,1
+1660,water,water,1
+1661,water,water,1
+1662,water,water,1
+1663,ambulanza,ambulanza,1
+1664,topa,topa,1
+1665,mototopo,mototopo,1
+1666,water,water,1
+1667,vaporettoactv,vaporettoactv,1
+1668,water,water,1
+1669,water,water,1
+1670,lanciafino10mbianca,lanciafino10mbianca,1
+1671,lanciafino10mbianca,polizia,0
+1672,water,water,1
+1673,water,water,1
+1674,lanciafino10mbianca,lanciafino10mbianca,1
+1675,topa,barchino,0
+1676,vaporettoactv,vaporettoactv,1
+1677,vaporettoactv,vaporettoactv,1
+1678,topa,mototopo,0
+1679,vaporettoactv,vaporettoactv,1
+1680,lanciafino10mmarrone,lanciafino10mmarrone,1
+1681,water,water,1
+1682,alilaguna,alilaguna,1
