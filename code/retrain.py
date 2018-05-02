@@ -627,7 +627,6 @@ def main(_):
                         decoded_image_tensor, resized_image_tensor,
                         bottleneck_tensor, FLAGS.architecture)
 
-    # Add the new layer that we'll be training.
     (train_step, cross_entropy, bottleneck_input, ground_truth_input,
      final_tensor) = add_final_training_ops(
          len(image_lists.keys()), FLAGS.final_tensor_name, bottleneck_tensor,
